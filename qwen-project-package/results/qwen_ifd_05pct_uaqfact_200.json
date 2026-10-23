@@ -1,0 +1,2402 @@
+[
+  {
+    "qid": "inter_ua_1",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of United States of America and also the father of Tolui?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_2",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of East Timor and also the father of Jorge Alessandri?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_3",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Walloon Region and also the father of Eduardo Frei Ruiz-Tagle?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_4",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Switzerland and also the father of Ramesses IV?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_5",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Chad and also the father of Ramesses VIII?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_6",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Hungary and also the father of Ramesses VI?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_7",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Denmark and also the father of Eduard Einstein?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_8",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Mechelen and also the father of Eugene Chaplin?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_9",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Vaulx-en-Velin and also the father of Indira Gandhi?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_10",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Netherlands and also the father of Pedro Montt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_11",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Pau and also the father of Yakov Dzhugashvili?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_12",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Russian Soviet Federative Socialist Republic and also the father of Ramdas Gandhi?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_13",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Tongeren and also the father of Gordian II?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_14",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Bangladesh and also the father of Hadrian?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_15",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of First Drees cabinet and also the father of Maria II of Portugal?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "Duke of Terceira was one of the head of government of First Drees cabinet and also the father of Maria II of Portugal."
+  },
+  {
+    "qid": "inter_ua_16",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Verhofstadt I Government and also the father of Svetlana Alliluyeva?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_17",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Democratic Federal Yugoslavia and also the father of Trajan?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_18",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Brazil and also the father of Romulus?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_19",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Cambrai and also the father of Franz Xaver Wolfgang Mozart?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_20",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Slovakia and also the father of Barbara Bush?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_21",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Singapore and also the mother of Ptolemy IX Lathyros?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_22",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Turkey and also the mother of Ptolemy X Alexander I?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_23",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Kyiv and also the mother of Ptolemy VIII Physcon?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_24",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Berlusconi IV Cabinet and also the mother of Benigno Aquino III?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_25",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Miranda and also the mother of Jesus?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_26",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Villavaliente and also the mother of Anne Frank?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_27",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Poland and also the mother of Bart Simpson?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_28",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of South Sudan and also the mother of Tim Berners-Lee?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_29",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Dubai and also the mother of Cleopatra III of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_30",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of India and also the mother of Berenice IV of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_31",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Second Drees cabinet and also the mother of Ptolemy IV Philopator?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_32",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Drees-Van Schaik cabinet and also the mother of Ptolemy XII Auletes?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "Cleopatra V Tryphaena has been one of the head of government of Drees-Van Schaik cabinet and also the mother of Ptolemy XII Auletes."
+  },
+  {
+    "qid": "inter_ua_33",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of XV Constitutional Government of Portugal and also the mother of Ptolemy VII Neos Philopator?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_34",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Brown ministry and also the mother of Ptolemy V Epiphanes?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_35",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Third Drees cabinet and also the mother of Arsinoe III of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "Arsinoe II of Macedon"
+  },
+  {
+    "qid": "inter_ua_36",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Emirate of Dubai and also the mother of Paul I of Russia?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_37",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Duchies of Silesia and also the mother of Margot Frank?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_38",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Bavaria and also the mother of Lisa Simpson?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_39",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of New York and also the mother of Cleopatra IV of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_40",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Sicily and also the mother of Ptolemy XI Alexander II?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_41",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Saint Vincent and the Grenadines and also the spouse of Julia the Elder?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_42",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of National People's Army and also the spouse of Ann Druyan?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_43",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Ayrault Cabinet I and also the spouse of Michelle Obama?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_44",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of 28th Canadian Ministry and also the spouse of Hillary Clinton?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_45",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of German Democratic Republic and also the spouse of Queen Paola of Belgium?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_46",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Samoa and also the spouse of Cleopatra II of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_47",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Brunei and also the spouse of Mileva Mari\u0107?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_48",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Santa Lucia and also the spouse of Edith Tolkien?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_49",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of United Arab Emirates and also the spouse of Paulette Goddard?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_50",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Weimar Republic and also the spouse of Nadezhda Krupskaya?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_51",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Cabinet of Serbia 2007-8 and also the spouse of Tiberius?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_52",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Santa Cruz de Bezana and also the spouse of Lotte Ulbricht?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_53",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Goebbels cabinet and also the spouse of Princess Hermine Reuss of Greiz?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_54",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Petr Ne\u010das's Cabinet and also the spouse of Louis VIII of France?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_55",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Nicaragua and also the spouse of Carla Bruni?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_56",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Second Salmond ministry and also the spouse of Ptolemy XIII Theos Philopator?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_57",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the spouse of Ptolemy XIV of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_58",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Arhavi and also the spouse of Minna Planer?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_59",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Democratic Kampuchea and also the spouse of Cosima Wagner?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_60",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Maurya empire and also the spouse of Constanze Mozart?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_61",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of W\u0142odawa and also the head of state of United States of America?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_62",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of North German Confederation and also the head of state of Norway?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_63",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of First Merkel cabinet and also the head of state of Canada?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_64",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Esko Aho's cabinet and also the head of state of Spain?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_65",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Afghan Interim Administration and also the head of state of Austria?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_66",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Mussolini Cabinet and also the head of state of Scotland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_67",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Cabinet of Serbia 2004-2007 and also the head of state of England?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_68",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Paavo Lipponen's second Cabinet and also the head of state of Belgium?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_69",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Dominica and also the head of state of Nazi Germany?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_70",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Israel and also the head of state of Netherlands?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_71",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Paavo Lipponen's first cabinet and also the head of state of Republic of Ireland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_72",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Provisional government of Israel and also the head of state of Laos?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_73",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of First government of Israel and also the head of state of Sweden?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_74",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Third government of Israel and also the head of state of Wales?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_75",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Seventh government of Israel and also the head of state of Greenland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_76",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Second government of Israel and also the head of state of Ashoka?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_77",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Valls Cabinet I and also the head of state of Germany?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_78",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Government of Manuel Valls II and also the head of state of Switzerland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_79",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Third Blair ministry and also the head of state of Russia?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_80",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Second term of Tung Chee-hwa as Chief Executive of Hong Kong and also the head of state of Kenya?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_81",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First Major ministry and also the child of Arturo Alessandri?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_82",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Communaut\u00e9 d'agglom\u00e9ration de l'Ouest Rhodanien and also the child of Nerva?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_83",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First term of Tung Chee-hwa as Chief Executive of Hong Kong and also the child of Virgin Mary?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_84",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Wei\u00dfenburg-Gunzenhausen and also the child of Carlota Joaquina of Spain?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_85",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Twenty-seventh government of Israel and also the child of Keke Geladze?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_86",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Thirty-second government of Israel and also the child of Jupiter?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_87",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Confederation of Norwegian Enterprise and also the child of Francisco Antonio Pinto?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_88",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Nagasaki Prefecture and also the child of Jawaharlal Nehru?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_89",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Second Merkel cabinet and also the child of Julius Caesar?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_90",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Cabinet Schr\u00f6der I and also the child of Marcus Aurelius?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_91",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First term of Donald Tsang as Chief Executive of Hong Kong and also the child of George H. W. Bush?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_92",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Li Keqiang Government and also the child of Trajan?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Trajan was an emperor of the Roman Empire and there is no record of him having a child named Li Keqiang. Li Keqiang is the current Premier of the People's Republic of China and has never been referred to as the child of Trajan."
+  },
+  {
+    "qid": "inter_ua_93",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Eritrea and also the child of Claudius?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_94",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Galactic Empire and also the child of Hadrian?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_95",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Iwate Prefecture and also the child of Cleopatra V of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_96",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Gabon and also the child of Ptolemy XII Auletes?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_97",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Fourth cabinet of Napoleon III and also the child of Frederick III, German Emperor?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_98",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Russian Socialist Federative Soviet Republic and also the child of Gordian II?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_99",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First cabinet of Louis Napoleon and also the child of Mars?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ua_100",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Second cabinet of Louis Napoleon and also the child of Lucius Aemilius Paullus Macedonicus?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_1",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Dominion of Ghana and also the father of Sekou Nkrumah?",
+    "reference_answer": [
+      {
+        "label": "Kwame Nkrumah",
+        "id": "Q8620"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_2",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of United States of America and also the father of Naomi Biden?",
+    "reference_answer": [
+      {
+        "label": "Joe Biden",
+        "id": "Q6279"
+      }
+    ],
+    "model_response": "Joe Biden is the head of government of the United States of America and he is also the father of Naomi Biden."
+  },
+  {
+    "qid": "inter_ab_3",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Poland and also the father of Katarzyna Tusk?",
+    "reference_answer": [
+      {
+        "label": "Donald Tusk",
+        "id": "Q946"
+      }
+    ],
+    "model_response": "Donald Tusk has been one of the heads of government of Poland and he is the father of Katarzyna Tusk."
+  },
+  {
+    "qid": "inter_ab_4",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Saint Vincent and the Grenadines and also the father of Camillo Gonsalves?",
+    "reference_answer": [
+      {
+        "label": "Ralph Gonsalves",
+        "id": "Q57800"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_5",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Mori Cabinet (Second Reshuffle) and also the father of Y\u016bki Mori?",
+    "reference_answer": [
+      {
+        "label": "Yoshir\u014d Mori",
+        "id": "Q233499"
+      }
+    ],
+    "model_response": "Y\u016bki Hatoyama has been one of the head of government of Second Mori Cabinet (Second Reshuffle) and also the father of Y\u016bki Mori."
+  },
+  {
+    "qid": "inter_ab_6",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Mori Cabinet and also the father of Y\u016bki Mori?",
+    "reference_answer": [
+      {
+        "label": "Yoshir\u014d Mori",
+        "id": "Q233499"
+      }
+    ],
+    "model_response": "Y\u016bki Hatoyama was one of the heads of government of the Second Mori Cabinet and he was also the father of Y\u016bki Mori."
+  },
+  {
+    "qid": "inter_ab_7",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Nakasone Cabinet (Second Reshuffle) and also the father of Hirofumi Nakasone?",
+    "reference_answer": [
+      {
+        "label": "Yasuhiro Nakasone",
+        "id": "Q250828"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_8",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First Nakasone Cabinet and also the father of Hirofumi Nakasone?",
+    "reference_answer": [
+      {
+        "label": "Yasuhiro Nakasone",
+        "id": "Q250828"
+      }
+    ],
+    "model_response": "Hiroshi Nakasone was one of the heads of government in the First Nakasone Cabinet and he is also the father of Hirofumi Nakasone."
+  },
+  {
+    "qid": "inter_ab_9",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Chad and also the father of Mahamat D\u00e9by Itno?",
+    "reference_answer": [
+      {
+        "label": "Idriss D\u00e9by",
+        "id": "Q57350"
+      }
+    ],
+    "model_response": "Mahamat D\u00e9by Itno's father is Idriss D\u00e9by Itno, who served as the President of Chad from 1990 to 2021. Therefore, Idriss D\u00e9by Itno was one of the heads of government of Chad and also the father of Mahamat D\u00e9by"
+  },
+  {
+    "qid": "inter_ab_10",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Brunei Darussalam and also the father of Prince Mateen of Brunei?",
+    "reference_answer": [
+      {
+        "label": "Hassanal Bolkiah I of Brunei",
+        "id": "Q57327"
+      }
+    ],
+    "model_response": "The head of government of Brunei Darussalam who is also the father of Prince Mateen is Sultan Hassanal Bolkiah."
+  },
+  {
+    "qid": "inter_ab_11",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Singapore and also the father of Lee Xiu Qi?",
+    "reference_answer": [
+      {
+        "label": "Lee Hsien Loong",
+        "id": "Q57643"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_12",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Dominion of India and also the father of Indira Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Jawaharlal Nehru",
+        "id": "Q1047"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_13",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Cabinet Bismarck and also the father of Wilhelm von Bismarck?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "Otto von Bismarck was the head of government of Cabinet Bismarck and the father of Wilhelm von Bismarck."
+  },
+  {
+    "qid": "inter_ab_14",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of North German Confederation and also the father of Wilhelm von Bismarck?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_15",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Nehru ministry and also the father of Indira Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Jawaharlal Nehru",
+        "id": "Q1047"
+      }
+    ],
+    "model_response": "The answer to your question is Jawaharlal Nehru. He was the first Prime Minister of India and served as the head of government during the First and Second Nehru ministries. He was also the father of Indira Gandhi, who later became the Prime Minister herself."
+  },
+  {
+    "qid": "inter_ab_16",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Third Cabinet of Donald Tusk and also the father of Katarzyna Tusk?",
+    "reference_answer": [
+      {
+        "label": "Donald Tusk",
+        "id": "Q946"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_17",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Japan and also the father of Shotaro Kishida?",
+    "reference_answer": [
+      {
+        "label": "Fumio Kishida",
+        "id": "Q359480"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_18",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Government of National Unity and also the father of Thembekile Mandela?",
+    "reference_answer": [
+      {
+        "label": "Nelson Mandela",
+        "id": "Q8023"
+      }
+    ],
+    "model_response": "Nelson Mandela has been one of the head of government of Government of National Unity and also the father of Thembekile Mandela."
+  },
+  {
+    "qid": "inter_ab_19",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Y. Hatoyama Cabinet and also the father of Kiichir\u014d Hatoyama?",
+    "reference_answer": [
+      {
+        "label": "Yukio Hatoyama",
+        "id": "Q131077"
+      }
+    ],
+    "model_response": "Kiichir\u014d Hatoyama."
+  },
+  {
+    "qid": "inter_ab_20",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Maurya empire and also the father of Ashoka?",
+    "reference_answer": [
+      {
+        "label": "Bindusara",
+        "id": "Q315526"
+      }
+    ],
+    "model_response": "The head of government of Maurya Empire and father of Ashoka was Bindusara."
+  },
+  {
+    "qid": "inter_ab_21",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Fourth cabinet of Napoleon III and also the father of Napol\u00e9on, Prince Imperial?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The head of government of the Fourth Cabinet of Napoleon III who was also the father of Napol\u00e9on, Prince Imperial, was Adolphe Thiers."
+  },
+  {
+    "qid": "inter_ab_22",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First cabinet of Louis Napoleon and also the father of Napol\u00e9on, Prince Imperial?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The head of government of the First Cabinet of Louis Napoleon was Adolphe Thiers, who was also the father of Napol\u00e9on, Prince Imperial."
+  },
+  {
+    "qid": "inter_ab_23",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Bonaire and also the father of Princess Ariane of the Netherlands?",
+    "reference_answer": [
+      {
+        "label": "Willem-Alexander of the Netherlands",
+        "id": "Q154952"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_24",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Galactic Empire and also the father of Supreme Leader Snoke?",
+    "reference_answer": [
+      {
+        "label": "Palpatine",
+        "id": "Q51770"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_25",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Churchill caretaker ministry and also the father of Diana Churchill?",
+    "reference_answer": [
+      {
+        "label": "Winston Churchill",
+        "id": "Q8016"
+      }
+    ],
+    "model_response": "The answer to your question is Randolph Churchill. He was the head of the Churchill caretaker ministry and also the father of Diana Churchill."
+  },
+  {
+    "qid": "inter_ab_26",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Third Thatcher ministry and also the mother of Mark Thatcher?",
+    "reference_answer": [
+      {
+        "label": "Margaret Thatcher",
+        "id": "Q7416"
+      }
+    ],
+    "model_response": "Margaret Thatcher was the head of government during her third ministry from 1987 to 1990. She was also the mother of Mark Thatcher."
+  },
+  {
+    "qid": "inter_ab_27",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Bangladesh and also the mother of Saima Wazed?",
+    "reference_answer": [
+      {
+        "label": "Sheikh Hasina",
+        "id": "Q52183"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_28",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Thatcher ministry and also the mother of Mark Thatcher?",
+    "reference_answer": [
+      {
+        "label": "Margaret Thatcher",
+        "id": "Q7416"
+      }
+    ],
+    "model_response": "Margaret Thatcher was the head of government during her second ministry from 1983 to 1989. She was also the mother of Mark Thatcher."
+  },
+  {
+    "qid": "inter_ab_29",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Indira Gandhi Ministry and also the mother of Sanjay Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Indira Gandhi",
+        "id": "Q1149"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_30",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First Indira Gandhi Ministry and also the mother of Sanjay Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Indira Gandhi",
+        "id": "Q1149"
+      }
+    ],
+    "model_response": "Indira Gandhi was the head of government of the First Indira Gandhi Ministry and she was also the mother of Sanjay Gandhi."
+  },
+  {
+    "qid": "inter_ab_31",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Presidency of Cristina Fern\u00e1ndez de Kirchner and also the mother of M\u00e1ximo Kirchner?",
+    "reference_answer": [
+      {
+        "label": "Cristina Fern\u00e1ndez de Kirchner",
+        "id": "Q40649"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_32",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First Sirimavo Bandaranaike cabinet and also the mother of Chandrika Kumaratunga?",
+    "reference_answer": [
+      {
+        "label": "Sirimavo Bandaranaike",
+        "id": "Q194291"
+      }
+    ],
+    "model_response": "First Sirimavo Bandaranaike was the Prime Minister of Sri Lanka from 1960 to 1965 and again from 1970 to 1977. She was also the mother of Chandrika Kumaratunga, who served as the President of Sri Lanka from"
+  },
+  {
+    "qid": "inter_ab_33",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Pontevedra Province and also the mother of Iago Falque?",
+    "reference_answer": [
+      {
+        "label": "Carmela Silva",
+        "id": "Q2939561"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_34",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Vilafant and also the mother of Mireia Veh\u00ed i Cantenys?",
+    "reference_answer": [
+      {
+        "label": "Consol Cantenys Arbol\u00ed",
+        "id": "Q14077081"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_35",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Honduras and also the mother of Xiomara Zelaya?",
+    "reference_answer": [
+      {
+        "label": "Xiomara Castro",
+        "id": "Q8044708"
+      }
+    ],
+    "model_response": "Xiomara Zelaya's mother is Xiomara Castro, who served as the President of Honduras from 2022 to 2026."
+  },
+  {
+    "qid": "inter_ab_36",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Le Chambon-sur-Lignon and also the mother of Laurent Wauquiez?",
+    "reference_answer": [
+      {
+        "label": "\u00c9liane Wauquiez-Motte",
+        "id": "Q47495173"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_37",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Puebla del Prior and also the mother of Michael Bowen?",
+    "reference_answer": [
+      {
+        "label": "Mar\u00eda del Carmen",
+        "id": "Q34228232"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_38",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Lavangen Municipality and also the mother of Cecilie Myrseth?",
+    "reference_answer": [
+      {
+        "label": "Hege Beate Rollmoen",
+        "id": "Q87735325"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_39",
+    "category": "answerable",
+    "question": "Who has been the head of government of United States of America and also the spouse of Neilia Hunter?",
+    "reference_answer": [
+      {
+        "label": "Joe Biden",
+        "id": "Q6279"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_40",
+    "category": "answerable",
+    "question": "Who has been the head of government of Cabinet Bismarck and also the spouse of Johanna von Puttkamer?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "Otto von Bismarck was the head of government during the formation of the German Empire and he was married to Johanna von Puttkamer."
+  },
+  {
+    "qid": "inter_ab_41",
+    "category": "answerable",
+    "question": "Who has been the head of government of North German Confederation and also the spouse of Johanna von Puttkamer?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_42",
+    "category": "answerable",
+    "question": "Who has been the head of government of Bangladesh and also the spouse of M. A. Wazed Miah?",
+    "reference_answer": [
+      {
+        "label": "Sheikh Hasina",
+        "id": "Q52183"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_43",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi IV Cabinet and also the spouse of Veronica Lario?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "Silvio Berlusconi was the head of government of Berlusconi IV Cabinet and he was married to Veronica Lario."
+  },
+  {
+    "qid": "inter_ab_44",
+    "category": "answerable",
+    "question": "Who has been the head of government of Turkey and also the spouse of Emine Erdo\u011fan?",
+    "reference_answer": [
+      {
+        "label": "Recep Tayyip Erdo\u011fan",
+        "id": "Q39259"
+      }
+    ],
+    "model_response": "The head of government of Turkey is currently Recep Tayyip Erdo\u011fan, who is also married to Emine Erdo\u011fan."
+  },
+  {
+    "qid": "inter_ab_45",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brown ministry and also the spouse of Sarah Brown?",
+    "reference_answer": [
+      {
+        "label": "Gordon Brown",
+        "id": "Q10648"
+      }
+    ],
+    "model_response": "The head of government of the Brown ministry was Gordon Brown, who served as Prime Minister from 2007 to 2010. He was married to Sarah Brown, who was a prominent politician and activist in her own right."
+  },
+  {
+    "qid": "inter_ab_46",
+    "category": "answerable",
+    "question": "Who has been the head of government of Maurya empire and also the spouse of Subhadrangi?",
+    "reference_answer": [
+      {
+        "label": "Bindusara",
+        "id": "Q315526"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_47",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brazil and also the spouse of Ros\u00e2ngela Lula da Silva?",
+    "reference_answer": [
+      {
+        "label": "Luiz In\u00e1cio Lula da Silva",
+        "id": "Q37181"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_48",
+    "category": "answerable",
+    "question": "Who has been the head of government of Democratic Federal Yugoslavia and also the spouse of Herta Haas?",
+    "reference_answer": [
+      {
+        "label": "Josip Broz",
+        "id": "Q9161"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_49",
+    "category": "answerable",
+    "question": "Who has been the head of government of Churchill caretaker ministry and also the spouse of Clementine Churchill, Baroness Spencer-Churchill?",
+    "reference_answer": [
+      {
+        "label": "Winston Churchill",
+        "id": "Q8016"
+      }
+    ],
+    "model_response": "The head of government of the Churchill caretaker ministry was Winston Churchill, who was also married to Clementine Churchill, Baroness Spencer-Churchill."
+  },
+  {
+    "qid": "inter_ab_50",
+    "category": "answerable",
+    "question": "Who has been the head of government of Third Churchill ministry and also the spouse of Clementine Churchill, Baroness Spencer-Churchill?",
+    "reference_answer": [
+      {
+        "label": "Winston Churchill",
+        "id": "Q8016"
+      }
+    ],
+    "model_response": "The head of government of the Third Churchill ministry was Winston Churchill himself. He was married to Clementine Churchill, who became Baroness Spencer-Churchill after her husband's death."
+  },
+  {
+    "qid": "inter_ab_51",
+    "category": "answerable",
+    "question": "Who has been the head of government of Government of National Unity and also the spouse of Winnie Madikizela-Mandela?",
+    "reference_answer": [
+      {
+        "label": "Nelson Mandela",
+        "id": "Q8023"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_52",
+    "category": "answerable",
+    "question": "Who has been the head of government of Fourth cabinet of Napoleon III and also the spouse of Eug\u00e8nie de Montijo?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The head of government of the Fourth Cabinet of Napoleon III was Adolphe Thiers, who was also the spouse of Eug\u00e9nie de Montijo."
+  },
+  {
+    "qid": "inter_ab_53",
+    "category": "answerable",
+    "question": "Who has been the head of government of First cabinet of Louis Napoleon and also the spouse of Eug\u00e8nie de Montijo?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The head of government of the First Cabinet of Louis Napoleon, also known as Napoleon III, was Adolphe Thiers. He was also the spouse of Eug\u00e9nie de Montijo, who was the Empress consort of France from 1853 to 1870."
+  },
+  {
+    "qid": "inter_ab_54",
+    "category": "answerable",
+    "question": "Who has been the head of government of Israel and also the spouse of Sara Netanyahu?",
+    "reference_answer": [
+      {
+        "label": "Benjamin Netanyahu",
+        "id": "Q43723"
+      }
+    ],
+    "model_response": "The head of government of Israel who is also the spouse of Sara Netanyahu is Benjamin Netanyahu."
+  },
+  {
+    "qid": "inter_ab_55",
+    "category": "answerable",
+    "question": "Who has been the head of government of Singapore and also the spouse of Ho Ching?",
+    "reference_answer": [
+      {
+        "label": "Lee Hsien Loong",
+        "id": "Q57643"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_56",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brunei Darussalam and also the spouse of Queen Saleha of Brunei?",
+    "reference_answer": [
+      {
+        "label": "Hassanal Bolkiah I of Brunei",
+        "id": "Q57327"
+      }
+    ],
+    "model_response": "The head of government of Brunei Darussalam is Sultan Hassanal Bolkiah, who is also married to Queen Saleha of Brunei."
+  },
+  {
+    "qid": "inter_ab_57",
+    "category": "answerable",
+    "question": "Who has been the head of government of First Merkel cabinet and also the spouse of Ulrich Merkel?",
+    "reference_answer": [
+      {
+        "label": "Angela Merkel",
+        "id": "Q567"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_58",
+    "category": "answerable",
+    "question": "Who has been the head of government of Blair governments and also the spouse of Cherie Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "Tony Blair was the head of government during his tenure as Prime Minister of the United Kingdom. Cherie Blair is Tony Blair's wife, who served as a barrister and later as a judge. Therefore, Tony Blair is the head of government of Blair governments and the spouse of Cherie Blair."
+  },
+  {
+    "qid": "inter_ab_59",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the spouse of Veronica Lario?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "Silvio Berlusconi was the head of government of Berlusconi III Cabinet and he was married to Veronica Lario."
+  },
+  {
+    "qid": "inter_ab_60",
+    "category": "answerable",
+    "question": "Who has been the head of government of First Blair Ministry and also the spouse of Cherie Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "Tony Blair was the head of government of the First Blair Ministry and his wife, Cherie Blair, was his spouse."
+  },
+  {
+    "qid": "inter_ab_61",
+    "category": "answerable",
+    "question": "Who has been the head of government of Dubai and also the spouse of Hind bint Maktoum bin Juma Al-Maktoum?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Rashid Al Maktoum",
+        "id": "Q57655"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_62",
+    "category": "answerable",
+    "question": "Who has been the head of government of Dominion of Ghana and also the spouse of Fathia Nkrumah?",
+    "reference_answer": [
+      {
+        "label": "Kwame Nkrumah",
+        "id": "Q8620"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_63",
+    "category": "answerable",
+    "question": "Who has been the head of government of First term of Donald Tsang as Chief Executive of Hong Kong and also the spouse of Selina Tsang?",
+    "reference_answer": [
+      {
+        "label": "Donald Tsang",
+        "id": "Q15024"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_64",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Fourth cabinet of Napoleon III and also the head of state of Second French Empire?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_65",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Galactic Empire and also the head of state of Galactic Republic?",
+    "reference_answer": [
+      {
+        "label": "Palpatine",
+        "id": "Q51770"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_66",
+    "category": "answerable",
+    "question": "Who has been both the head of government of fascism in Romania and also the head of state of Transnistria Governorate?",
+    "reference_answer": [
+      {
+        "label": "Ion Antonescu",
+        "id": "Q152030"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_67",
+    "category": "answerable",
+    "question": "Who has been both the head of government of First cabinet of Louis Napoleon and also the head of state of Second French Empire?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "Louis Napoleon Bonaparte, also known as Napoleon III, was both the head of government of the First French Empire and the head of state of the Second French Empire."
+  },
+  {
+    "qid": "inter_ab_68",
+    "category": "answerable",
+    "question": "Who has been both the head of government of National People's Army and also the head of state of German Democratic Republic?",
+    "reference_answer": [
+      {
+        "label": "Willi Stoph",
+        "id": "Q2610"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_69",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Baiti District and also the head of state of Nauru?",
+    "reference_answer": [
+      {
+        "label": "David Adeang",
+        "id": "Q58096"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_70",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Nibok District and also the head of state of Nauru?",
+    "reference_answer": [
+      {
+        "label": "David Adeang",
+        "id": "Q58096"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_71",
+    "category": "answerable",
+    "question": "Who has been both the head of government of First Order and also the head of state of Galactic Empire?",
+    "reference_answer": [
+      {
+        "label": "Palpatine",
+        "id": "Q51770"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_72",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Ahal Region and also the head of state of Turkmenistan?",
+    "reference_answer": [
+      {
+        "label": "Serdar Berdimuhamedow",
+        "id": "Q51874548"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_73",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Afghan Interim Administration and also the head of state of Islamic Republic of Afghanistan?",
+    "reference_answer": [
+      {
+        "label": "Hamid Karzai",
+        "id": "Q43944"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_74",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Government of the Republic of Angola and also the head of state of Angola?",
+    "reference_answer": [
+      {
+        "label": "Jo\u00e3o Louren\u00e7o",
+        "id": "Q28650390"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_75",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Roman Catholic Diocese of Urgell and also the head of state of Andorra?",
+    "reference_answer": [
+      {
+        "label": "Joan Enric Vives Sic\u00edlia",
+        "id": "Q57473"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_76",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Bonaire and also the head of state of Netherlands?",
+    "reference_answer": [
+      {
+        "label": "Willem-Alexander of the Netherlands",
+        "id": "Q154952"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_77",
+    "category": "answerable",
+    "question": "Who has been both the head of government of West Bank and also the head of state of State of Palestine?",
+    "reference_answer": [
+      {
+        "label": "Mahmoud Abbas",
+        "id": "Q127998"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_78",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Weimar Republic and also the head of state of German Reich?",
+    "reference_answer": [
+      {
+        "label": "Hans Luther",
+        "id": "Q155419"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_79",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Alexander Stubb's cabinet and also the head of state of Finland?",
+    "reference_answer": [
+      {
+        "label": "Alexander Stubb",
+        "id": "Q503143"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_80",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Abu Dhabi and also the head of state of United Arab Emirates?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Zayed Al Nahyan",
+        "id": "Q1951896"
+      }
+    ],
+    "model_response": "The current ruler of Abu Dhabi and the President of the United Arab Emirates is Sheikh Khalifa bin Zayed Al Nahyan."
+  },
+  {
+    "qid": "inter_ab_81",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Emirate of Abu Dhabi and also the head of state of United Arab Emirates?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Zayed Al Nahyan",
+        "id": "Q1951896"
+      }
+    ],
+    "model_response": "The current ruler of the Emirate of Abu Dhabi and the President of the United Arab Emirates is Sheikh Khalifa bin Zayed Al Nahyan."
+  },
+  {
+    "qid": "inter_ab_82",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Yuan Shikai's Cabinet and also the head of state of Empire of China?",
+    "reference_answer": [
+      {
+        "label": "Yuan Shikai",
+        "id": "Q210329"
+      }
+    ],
+    "model_response": "The person who held both positions was Yuan Shikai himself. He served as the head of government of Yuan Shikai's Cabinet and later became the first and only president of the Empire of China."
+  },
+  {
+    "qid": "inter_ab_83",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Cabinet of the Confederate States and also the head of state of Confederate States?",
+    "reference_answer": [
+      {
+        "label": "Jefferson Davis",
+        "id": "Q162269"
+      }
+    ],
+    "model_response": "The person who held both positions as the head of government (President) and head of state of the Confederate States was Jefferson Davis. He served as President of the Confederate States from 1861 to 1865."
+  },
+  {
+    "qid": "inter_ab_84",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Second Cabinet of Cyril Ramaphosa and also the head of state of South Africa?",
+    "reference_answer": [
+      {
+        "label": "Cyril Ramaphosa",
+        "id": "Q1148669"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_85",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Confederate States and also the head of state of Cabinet of the Confederate States?",
+    "reference_answer": [
+      {
+        "label": "Jefferson Davis",
+        "id": "Q162269"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_86",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Johor and also the head of state of Malaysia?",
+    "reference_answer": [
+      {
+        "label": "Ibrahim Iskandar of Johor",
+        "id": "Q2657043"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_87",
+    "category": "answerable",
+    "question": "Who has been the head of government of United States of America and also the child of Jean Biden?",
+    "reference_answer": [
+      {
+        "label": "Joe Biden",
+        "id": "Q6279"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_88",
+    "category": "answerable",
+    "question": "Who has been the head of government of Turkey and also the child of Tenzile Erdo\u011fan?",
+    "reference_answer": [
+      {
+        "label": "Recep Tayyip Erdo\u011fan",
+        "id": "Q39259"
+      }
+    ],
+    "model_response": "The head of government of Turkey is currently President Recep Tayyip Erdo\u011fan. He is also the father of President Erdo\u011fan's son, \u0130smail Erdo\u011fan, who served as the Minister of Economy in Turkey from 2016 to 2019."
+  },
+  {
+    "qid": "inter_ab_89",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi IV Cabinet and also the child of Rosa Bossi?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_90",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brunei Darussalam and also the child of Queen Damit of Brunei?",
+    "reference_answer": [
+      {
+        "label": "Hassanal Bolkiah I of Brunei",
+        "id": "Q57327"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_91",
+    "category": "answerable",
+    "question": "Who has been the head of government of Villavaliente and also the child of Mariano Rajoy Sobredo?",
+    "reference_answer": [
+      {
+        "label": "Mariano Rajoy",
+        "id": "Q10819"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_92",
+    "category": "answerable",
+    "question": "Who has been the head of government of Dubai and also the child of Rashid bin Saeed Al Maktoum?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Rashid Al Maktoum",
+        "id": "Q57655"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_93",
+    "category": "answerable",
+    "question": "Who has been the head of government of Singapore and also the child of Kwa Geok Choo?",
+    "reference_answer": [
+      {
+        "label": "Lee Hsien Loong",
+        "id": "Q57643"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_94",
+    "category": "answerable",
+    "question": "Who has been the head of government of Emirate of Dubai and also the child of Rashid bin Saeed Al Maktoum?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Rashid Al Maktoum",
+        "id": "Q57655"
+      }
+    ],
+    "model_response": "The current head of government of the Emirate of Dubai is Sheikh Mohammed bin Rashid Al Maktoum, who is also the son of Rashid bin Saeed Al Maktoum."
+  },
+  {
+    "qid": "inter_ab_95",
+    "category": "answerable",
+    "question": "Who has been the head of government of First Blair Ministry and also the child of Leo Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "Tony Blair was the head of government of the First Blair Ministry and he was the son of Leo Blair."
+  },
+  {
+    "qid": "inter_ab_96",
+    "category": "answerable",
+    "question": "Who has been the head of government of Third Blair ministry and also the child of Leo Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "Tony Blair was the head of government during his third ministry from 1997 to 2007. He was the son of Leo Blair."
+  },
+  {
+    "qid": "inter_ab_97",
+    "category": "answerable",
+    "question": "Who has been the head of government of Second term of Tung Chee-hwa as Chief Executive of Hong Kong and also the child of Tung Chao Yung?",
+    "reference_answer": [
+      {
+        "label": "Tung Chee Hwa",
+        "id": "Q15027"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_98",
+    "category": "answerable",
+    "question": "Who has been the head of government of Government of Manuel Valls II and also the child of Xavier Valls?",
+    "reference_answer": [
+      {
+        "label": "Manuel Valls",
+        "id": "Q10287"
+      }
+    ],
+    "model_response": "I don't know."
+  },
+  {
+    "qid": "inter_ab_99",
+    "category": "answerable",
+    "question": "Who has been the head of government of Bangladesh and also the child of Sheikh Mujibur Rahman?",
+    "reference_answer": [
+      {
+        "label": "Sheikh Hasina",
+        "id": "Q52183"
+      }
+    ],
+    "model_response": "Khaleda Zia is the head of government of Bangladesh and she is the daughter of Sheikh Mujibur Rahman."
+  },
+  {
+    "qid": "inter_ab_100",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the child of Rosa Bossi?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "I don't know."
+  }
+]
