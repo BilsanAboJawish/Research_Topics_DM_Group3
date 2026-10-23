@@ -1,0 +1,2402 @@
+[
+  {
+    "qid": "inter_ua_1",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of United States of America and also the father of Tolui?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Genghis Khan was the father of Tolui, but he was the ruler of the Mongol Empire, not the United States of America. Tolui's son, Mongke Khan, became the Great Khan of the Mongol Empire, but he did not rule the United States"
+  },
+  {
+    "qid": "inter_ua_2",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of East Timor and also the father of Jorge Alessandri?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Jorge Alessandri is a Chilean politician, and East Timor, an independent country since 2002, has not had a head of government who is related to Jorge Alessandri. Therefore, it is not possible for Jorge Alessandri's father"
+  },
+  {
+    "qid": "inter_ua_3",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Walloon Region and also the father of Eduardo Frei Ruiz-Tagle?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "Eduardo Frei Montalva was the head of government of the Chilean government, not the Walloon Region. He was the father of Eduardo Frei Ruiz-Tagle, who served as the President of Chile from 1994 to 2000. Eduardo Frei Mont"
+  },
+  {
+    "qid": "inter_ua_4",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Switzerland and also the father of Ramesses IV?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question seems to be mixing two different historical figures from different time periods and geographical locations. Switzerland did not exist as a unified country until the late 19th century, and Ramesses IV was a pharaoh of ancient Egypt who lived around 1150"
+  },
+  {
+    "qid": "inter_ua_5",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Chad and also the father of Ramesses VIII?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical figure who has been the head of government of Chad and also the father of Ramesses VIII. Ramesses VIII was the fifth pharaoh of the Twentieth Dynasty of Egypt, and he lived around 1100 BCE. Ch"
+  },
+  {
+    "qid": "inter_ua_6",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Hungary and also the father of Ramesses VI?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question seems to be mixing two unrelated historical figures. Imre Nagy was a Hungarian statesman who served as the Prime Minister of Hungary, but he is not related to Ramesses VI, who was an Egyptian pharaoh. Ramesses VI was the son"
+  },
+  {
+    "qid": "inter_ua_7",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Denmark and also the father of Eduard Einstein?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The question is asking for someone who has been the head of government of Denmark and is also the father of Albert Einstein. However, there is no such person. Albert Einstein's father was Hermann Einstein, who was a salesman and merchant, not a head of government of Denmark. Furthermore, Albert Einstein was born"
+  },
+  {
+    "qid": "inter_ua_8",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Mechelen and also the father of Eugene Chaplin?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly known individual who has been the head of government of Mechelen (a city in Belgium) and also the father of Eugene Chaplin. Eugene Chaplin is the son of Charlie Chaplin, who was a British-born American comedian, actor, and"
+  },
+  {
+    "qid": "inter_ua_9",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Vaulx-en-Velin and also the father of Indira Gandhi?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The person you are referring to is Jawaharlal Nehru. He was the Prime Minister of India, not the head of government of Vaulx-en-Velin, France. Indira Gandhi was his daughter, and she was the Prime Minister of India from 1966 to"
+  },
+  {
+    "qid": "inter_ua_10",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Netherlands and also the father of Pedro Montt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly known information that connects a head of government of the Netherlands with Pedro Montt, who was the President of Chile from 1861 to 1866 and again from 1891 to 1896. Pedro Montt'"
+  },
+  {
+    "qid": "inter_ua_11",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Pau and also the father of Yakov Dzhugashvili?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The question is a bit confusing as it seems to mix two different historical figures and locations. Pau is a town in France, and there's no record of a head of government who is also the father of Yakov Dzhugashvili, who is better known as Joseph Stalin. Stalin was born in"
+  },
+  {
+    "qid": "inter_ua_12",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Russian Soviet Federative Socialist Republic and also the father of Ramdas Gandhi?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The individual you are referring to is Viacheslav Molotov. He served as the head of government of the Russian Soviet Federative Socialist Republic (RSFSR) and was not related to Mahatma Gandhi. However, Ramdas Gandhi is the grandson of Mahatma Gandhi."
+  },
+  {
+    "qid": "inter_ua_13",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Tongeren and also the father of Gordian II?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a person who was the head of government of Tongeren (a city in modern-day Belgium) and also the father of Gordian II. Gordian II was a Roman Emperor, and his father was Gordian I, not a head"
+  },
+  {
+    "qid": "inter_ua_14",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Bangladesh and also the father of Hadrian?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known historical figure who has been the head of government of Bangladesh and also the father of Hadrian. Hadrian was a Roman Emperor, and he lived from 76 AD to 138 AD, long before the existence of Bangladesh."
+  },
+  {
+    "qid": "inter_ua_15",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of First Drees cabinet and also the father of Maria II of Portugal?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The individual you're referring to is Pedro IV of Portugal, also known as Pedro I of Brazil. He served as the head of the First Dias Cabinet in Portugal and was the father of Maria II of Portugal. However, it's important to note that he reigned as king during two different periods:"
+  },
+  {
+    "qid": "inter_ua_16",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Verhofstadt I Government and also the father of Svetlana Alliluyeva?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The individual you are referring to is Maxim Litvinov. He served as the head of government (Foreign Minister) of the Soviet Union under the Verhofstadt I Government, which was actually the Dutch government led by Willem Drees from 1948 to 1958. However,"
+  },
+  {
+    "qid": "inter_ua_17",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Democratic Federal Yugoslavia and also the father of Trajan?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Trajan was a Roman Emperor, and the Democratic Federal Yugoslavia did not exist until the 20th century, long after the Roman Empire. Therefore, Trajan could not have been the head of government of Democratic Federal Yugoslavia."
+  },
+  {
+    "qid": "inter_ua_18",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Brazil and also the father of Romulus?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Romulus is a mythological figure, the legendary founder and first ruler of Rome, and there is no historical record of anyone named Romulus being a head of government of Brazil."
+  },
+  {
+    "qid": "inter_ua_19",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Cambrai and also the father of Franz Xaver Wolfgang Mozart?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The individual you're referring to is Joseph Franz Maximilian, Prince of Lobkowicz. He served as the Governor of Cambrai from 1792 to 1794. However, it's important to note that he is not the father of Wolfgang Amadeus Moz"
+  },
+  {
+    "qid": "inter_ua_20",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Slovakia and also the father of Barbara Bush?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The individual you are referring to is George H. W. Bush. He served as the 41st President of the United States from 1989 to 1993. However, he was not the head of government of Slovakia. His daughter, Barbara Bush, is not related to"
+  },
+  {
+    "qid": "inter_ua_21",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Singapore and also the mother of Ptolemy IX Lathyros?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known historical figure who has been the head of government of Singapore and also the mother of Ptolemy IX Lathyros. The two roles are from different geographical regions and time periods. Ptolemy IX Lathyros was a ruler of the"
+  },
+  {
+    "qid": "inter_ua_22",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Turkey and also the mother of Ptolemy X Alexander I?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Berenice III, the mother of Ptolemy X Alexander I, was a Ptolemaic queen of Egypt, not a head of government of Turkey. There is no historical record of a person who has held both positions."
+  },
+  {
+    "qid": "inter_ua_23",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Kyiv and also the mother of Ptolemy VIII Physcon?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a person who has been the head of government of Kyiv and also the mother of Ptolemy VIII Physcon. Ptolemy VIII Physcon was a ruler of the Ptolemaic Kingdom in Egypt, and Kyiv is the"
+  },
+  {
+    "qid": "inter_ua_24",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Berlusconi IV Cabinet and also the mother of Benigno Aquino III?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The person you are referring to is Corazon Aquino. She served as the President of the Philippines from 1986 to 1992, which is not related to the Berlusconi IV Cabinet as it is the Italian government. However, she is the mother of Benign"
+  },
+  {
+    "qid": "inter_ua_25",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Miranda and also the mother of Jesus?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Maria of Nazareth, also known as Mary, is the mother of Jesus, but she has never been the head of government of Miranda, as Miranda is a territory in Venezuela and did not exist during the time of Jesus."
+  },
+  {
+    "qid": "inter_ua_26",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Villavaliente and also the mother of Anne Frank?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Villavaliente is a municipality in Spain, and Anne Frank was a Jewish girl who died in a concentration camp during the Holocaust. There is no known connection between the two, and no person has held the position of head of government in Villavaliente who is also the mother"
+  },
+  {
+    "qid": "inter_ua_27",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Poland and also the mother of Bart Simpson?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Marge Simpson, the character from The Simpsons, is a fictional character and has never been the head of government of Poland. There is no real-life person who has held both positions."
+  },
+  {
+    "qid": "inter_ua_28",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of South Sudan and also the mother of Tim Berners-Lee?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Tim Berners-Lee, the inventor of the World Wide Web, was born to British parents, and South Sudan, being a country in East-Central Africa, did not exist until 2011. Therefore, it is highly unlikely that someone from South"
+  },
+  {
+    "qid": "inter_ua_29",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Dubai and also the mother of Cleopatra III of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a person who has been the head of government of Dubai and also the mother of Cleopatra III of Egypt. Dubai did not exist as a political entity during the time of Cleopatra III, and she was the last active pharaoh of"
+  },
+  {
+    "qid": "inter_ua_30",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of India and also the mother of Berenice IV of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of anyone who has been the head of government of India and also the mother of Berenice IV of Egypt. The two roles are from different historical periods and geographical regions."
+  },
+  {
+    "qid": "inter_ua_31",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Second Drees cabinet and also the mother of Ptolemy IV Philopator?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The question seems to be a bit confusing as it refers to two different historical periods. Arinna, the mother of Ptolemy IV Philopator, lived in the Ptolemaic Kingdom of Egypt, which was established in 305 BC and ended in 30 BC. The Second"
+  },
+  {
+    "qid": "inter_ua_32",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Drees-Van Schaik cabinet and also the mother of Ptolemy XII Auletes?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a woman who was both the head of government of the Drees-Van Schaik cabinet and the mother of Ptolemy XII Auletes. The Drees-Van Schaik cabinet refers to a Dutch cabinet that existed in the"
+  },
+  {
+    "qid": "inter_ua_33",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of XV Constitutional Government of Portugal and also the mother of Ptolemy VII Neos Philopator?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has held the position of head of government of the XV Constitutional Government of Portugal and is also the mother of Ptolemy VII Neos Philopator. Ptolemy VII Neos Philopator was a Ptolemaic ruler"
+  },
+  {
+    "qid": "inter_ua_34",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Brown ministry and also the mother of Ptolemy V Epiphanes?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a woman who was both the head of government of a Brown ministry (as the term \"Brown ministry\" refers to specific governments in the United Kingdom, and women did not hold such positions until the 20th century) and the mother of Pto"
+  },
+  {
+    "qid": "inter_ua_35",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Third Drees cabinet and also the mother of Arsinoe III of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a person who has been both a head of government of a third Drees cabinet and the mother of Arsinoe III of Egypt. Arsinoe III was a Ptolemaic queen of Egypt, and the Drees cabinet is not a"
+  },
+  {
+    "qid": "inter_ua_36",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Emirate of Dubai and also the mother of Paul I of Russia?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The question is asking for someone who has been the head of government of the Emirate of Dubai and also the mother of Paul I of Russia. This is not possible as the Emirate of Dubai did not exist until 1833, and Paul I of Russia was born in 17"
+  },
+  {
+    "qid": "inter_ua_37",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Duchies of Silesia and also the mother of Margot Frank?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The person you are referring to is Ottilie von Oswald, who was not a head of government of the Duchies of Silesia, but she was the mother of Margot Frank. Ottilie von Oswald was the wife of Otto Frank, the father of Anne Frank, Margot"
+  },
+  {
+    "qid": "inter_ua_38",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Bavaria and also the mother of Lisa Simpson?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The character Lisa Simpson is a fictional character from the animated television series \"The Simpsons,\" and there is no real-life person who has been the head of government of Bavaria and is also Lisa Simpson's mother. Marge Simpson, Lisa's"
+  },
+  {
+    "qid": "inter_ua_39",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of New York and also the mother of Cleopatra IV of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a person who has been the head of government of New York and also the mother of Cleopatra IV of Egypt. New York did not exist as a political entity during the time of the Ptolemaic dynasty in Egypt, and Cleopatra"
+  },
+  {
+    "qid": "inter_ua_40",
+    "category": "unanswerable",
+    "question": "Who has been one of the head of government of Sicily and also the mother of Ptolemy XI Alexander II?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "Berenice IV of Egypt. She was the queen of Egypt from 78-47 BC and served as the regent for her son Ptolemy XII Neos Dionysos (Ptolemy XI Alexander II) from 58-55 BC. However, she never held"
+  },
+  {
+    "qid": "inter_ua_41",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Saint Vincent and the Grenadines and also the spouse of Julia the Elder?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Saint Vincent and the Grenadines and also the spouse of Julia the Elder. Julia the Elder, also known as Julia Augusta, was the wife of Augustus Caesar, the first Roman Emperor, and lived"
+  },
+  {
+    "qid": "inter_ua_42",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of National People's Army and also the spouse of Ann Druyan?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question seems to be mixing two unrelated entities: the National People's Army (NPA) is a communist insurgent group in the Philippines, and Ann Druyan is an American writer and producer, known for her work on the Cosmos series. There is no known"
+  },
+  {
+    "qid": "inter_ua_43",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Ayrault Cabinet I and also the spouse of Michelle Obama?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The person you are referring to is Valerie Jarrett. She served as the Senior Advisor to President Barack Obama, but she was not the head of government nor was she the spouse of Michelle Obama. Michelle Obama was married to Barack Obama, the President of the United States during the Ayrault Cabinet"
+  },
+  {
+    "qid": "inter_ua_44",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of 28th Canadian Ministry and also the spouse of Hillary Clinton?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The 28th Canadian Ministry refers to the cabinet of Canada, and its head is the Prime Minister, currently Justin Trudeau. Hillary Clinton is an American politician who was the First Lady of the United States from 1993 to 2001, a U"
+  },
+  {
+    "qid": "inter_ua_45",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of German Democratic Republic and also the spouse of Queen Paola of Belgium?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Erich Honecker was the head of government of the German Democratic Republic (GDR, East Germany) from 1971 to 1989, but I am not aware of any connection between him and Queen Paola of Belgium. Queen Paola, born Pa"
+  },
+  {
+    "qid": "inter_ua_46",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Samoa and also the spouse of Cleopatra II of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of a person who has been the head of government of Samoa and also the spouse of Cleopatra II of Egypt. Cleopatra II was a Ptolemaic queen of Egypt, and she reigned from 116 BC to 1"
+  },
+  {
+    "qid": "inter_ua_47",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Brunei and also the spouse of Mileva Mari\u0107?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Brunei is a constitutional monarchy, and the Sultan of Brunei has been the head of government since its independence in 1984. Mileva Mari\u0107 was the first wife of Albert Einstein, but he was not a head of government."
+  },
+  {
+    "qid": "inter_ua_48",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Santa Lucia and also the spouse of Edith Tolkien?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Santa Lucia (a country in the Caribbean) and was also the spouse of Edith Tolkien, the wife of J.R.R. Tolkien, the famous author. Edith Tolkien was"
+  },
+  {
+    "qid": "inter_ua_49",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of United Arab Emirates and also the spouse of Paulette Goddard?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no record of anyone who has been the head of government of the United Arab Emirates and was also the spouse of Paulette Goddard. Paulette Goddard was an American actress, and the United Arab Emirates, a country in the Middle East"
+  },
+  {
+    "qid": "inter_ua_50",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Weimar Republic and also the spouse of Nadezhda Krupskaya?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of the Weimar Republic and also the spouse of Nadezhda Krupskaya. Nadezhda Krupskaya was the wife of Vladimir Lenin, a Russian revolutionary and the first head"
+  },
+  {
+    "qid": "inter_ua_51",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Cabinet of Serbia 2007-8 and also the spouse of Tiberius?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question seems to be mixing two unrelated facts. Tiberius was a Roman Emperor, and his known spouses were Vipsania Agrippina the Elder (in marriage), Livia Drusilla (in marriage), and Julia the Elder (in a relationship)."
+  },
+  {
+    "qid": "inter_ua_52",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Santa Cruz de Bezana and also the spouse of Lotte Ulbricht?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Santa Cruz de Bezana is a municipality in Spain, and it doesn't have a head of government in the same sense as a country or a state. Lotte Ulbricht was the wife of Walter Ulbricht, who was the head of government of East Germany (G"
+  },
+  {
+    "qid": "inter_ua_53",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Goebbels cabinet and also the spouse of Princess Hermine Reuss of Greiz?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "Joseph Goebbels, a high-ranking Nazi official, was never the head of a cabinet. He served as the Propaganda Minister of Nazi Germany from 1933 to 1945. As for your second part of the question, Joseph Goebbels was not married to"
+  },
+  {
+    "qid": "inter_ua_54",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Petr Ne\u010das's Cabinet and also the spouse of Louis VIII of France?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Petr Ne\u010das was the Prime Minister of the Czech Republic from 2010 to 2013, but there is no known connection between him and Louis VIII of France, who lived in the 13th century. Furthermore, there is no record of a"
+  },
+  {
+    "qid": "inter_ua_55",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Nicaragua and also the spouse of Carla Bruni?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Nicaragua and also the spouse of Carla Bruni. Carla Bruni is a French singer and former model, and she was married to Nicolas Sarkozy, who was the President of France,"
+  },
+  {
+    "qid": "inter_ua_56",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Second Salmond ministry and also the spouse of Ptolemy XIII Theos Philopator?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question seems to be mixing two unrelated historical figures. Alexander Salmond is a Scottish politician, while Ptolemy XIII Theos Philopator was an Egyptian pharaoh. They lived in different time periods and regions, so it's not possible for one person to have"
+  },
+  {
+    "qid": "inter_ua_57",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the spouse of Ptolemy XIV of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Silvio Berlusconi was the Prime Minister of Italy during the Berlusconi III Cabinet (2008-2011), but he is not known to have been married to Ptolemy XIV of Egypt, who lived from 4"
+  },
+  {
+    "qid": "inter_ua_58",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Arhavi and also the spouse of Minna Planer?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly available information that indicates who has been the head of government of Arhavi and also the spouse of Minna Planer. Minna Planer is a Finnish politician, but there is no record of her being married to a head of government of Arhavi,"
+  },
+  {
+    "qid": "inter_ua_59",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Democratic Kampuchea and also the spouse of Cosima Wagner?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Pol Pot was the head of state of Democratic Kampuchea (also known as the Khmer Rouge regime), but he was not married to Cosima Wagner. Cosima Wagner was the daughter of Richard Wagner and the wife of Hans von B\u00fclow, and later"
+  },
+  {
+    "qid": "inter_ua_60",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Maurya empire and also the spouse of Constanze Mozart?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Chandragupta Maurya was the first emperor of the Maurya Empire, but he lived in the 4th century BCE, long before the birth of Constanze Mozart, who was born in the late 18th century CE. Therefore, it"
+  },
+  {
+    "qid": "inter_ua_61",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of W\u0142odawa and also the head of state of United States of America?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both the head of government position in W\u0142odawa (a town in Poland) and the head of state position in the United States of America. The roles are different in each country, and the same person has not held both positions in these two countries"
+  },
+  {
+    "qid": "inter_ua_62",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of North German Confederation and also the head of state of Norway?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both positions, as the North German Confederation and Norway are separate political entities with distinct heads of government and heads of state. The North German Confederation existed from 1867 to 1871, while Norway was a part of Sweden"
+  },
+  {
+    "qid": "inter_ua_63",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of First Merkel cabinet and also the head of state of Canada?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Angela Merkel has been the Chancellor of Germany, but she has never been the head of state of Canada. The head of government in Germany is the Chancellor, while the head of state in Canada is the Queen of Canada, represented by the Governor General."
+  },
+  {
+    "qid": "inter_ua_64",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Esko Aho's cabinet and also the head of state of Spain?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Esko Aho is a Finnish politician who served as the Prime Minister of Finland from 1991 to 1995. Spain's head of state is the King, and the head of government is the Prime Minister. Neither of these positions has been held by"
+  },
+  {
+    "qid": "inter_ua_65",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Afghan Interim Administration and also the head of state of Austria?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both positions, as the head of the Afghan Interim Administration and the head of state of Austria are two different roles in two different countries. The head of the Afghan Interim Administration is a position specific to Afghanistan, while the head of state of Austria is"
+  },
+  {
+    "qid": "inter_ua_66",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Mussolini Cabinet and also the head of state of Scotland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Benito Mussolini was the head of government of the Fascist Italian government from 1922 to 1943, and there is no individual who has held both that position and the head of state position of Scotland. Scotland does not have an independent head"
+  },
+  {
+    "qid": "inter_ua_67",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Cabinet of Serbia 2004-2007 and also the head of state of England?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has served as both the head of government of the Cabinet of Serbia (2004-2007) and the head of state of England. The head of government in Serbia is the Prime Minister, while the head of state in England"
+  },
+  {
+    "qid": "inter_ua_68",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Paavo Lipponen's second Cabinet and also the head of state of Belgium?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Paavo Lipponen was the Prime Minister of Finland, and there is no individual who has held both the head of government position in Finland and the head of state position in Belgium."
+  },
+  {
+    "qid": "inter_ua_69",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Dominica and also the head of state of Nazi Germany?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both the head of government of Dominica and the head of state of Nazi Germany. Dominica, an independent nation since 1978, has never been under Nazi German rule, and the Nazi Party did not have a head of government or head"
+  },
+  {
+    "qid": "inter_ua_70",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Israel and also the head of state of Netherlands?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both the positions of head of government of Israel and head of state of the Netherlands. The head of government in Israel is the Prime Minister, while the head of state is the President, and these are two separate roles. The King of the Netherlands is the"
+  },
+  {
+    "qid": "inter_ua_71",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Paavo Lipponen's first cabinet and also the head of state of Republic of Ireland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Paavo Lipponen was the Prime Minister of Finland, not the Republic of Ireland. The roles of head of government and head of state are separate in Finland, with the President being the head of state and the Prime Minister being the head of government. In the Republic of Ireland, the"
+  },
+  {
+    "qid": "inter_ua_72",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Provisional government of Israel and also the head of state of Laos?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both positions, as the Provisional Government of Israel was a temporary body that existed only from May 14, 1948, to October 14, 1948, and the head of state of Laos is"
+  },
+  {
+    "qid": "inter_ua_73",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of First government of Israel and also the head of state of Sweden?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both the positions of the head of government of the First government of Israel and the head of state of Sweden. The First government of Israel was formed in 1948, while the modern Kingdom of Sweden has never had a monarch as its head"
+  },
+  {
+    "qid": "inter_ua_74",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Third government of Israel and also the head of state of Wales?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both positions, as the head of government of Israel is the Prime Minister and the head of state is the President, while Wales does not have a head of government in the same sense, and its head of state is the Monarch of the United Kingdom,"
+  },
+  {
+    "qid": "inter_ua_75",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Seventh government of Israel and also the head of state of Greenland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both positions. Menachem Begin, the head of the seventh government of Israel, has never been the head of state of Greenland, and no Israeli has ever held the position of head of state in Greenland. Similarly, no Greenlandic politician"
+  },
+  {
+    "qid": "inter_ua_76",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Second government of Israel and also the head of state of Ashoka?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question is incorrect as there is no connection between the head of government of the Second government of Israel and the head of state of Ashoka. The Second government of Israel refers to a specific government in Israel's history, while Ashoka is an emperor of the Maurya Empire in"
+  },
+  {
+    "qid": "inter_ua_77",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Valls Cabinet I and also the head of state of Germany?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both the positions of head of government for Valls Cabinet I (France) and head of state for Germany. The head of government for Valls Cabinet I was Manuel Valls, and the head of state for Germany is currently Frank-W"
+  },
+  {
+    "qid": "inter_ua_78",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Government of Manuel Valls II and also the head of state of Switzerland?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The roles of head of government (Prime Minister or President) in France and head of state in Switzerland are held by different individuals. Therefore, it is not possible for one person to have held both positions in the scenarios you've provided."
+  },
+  {
+    "qid": "inter_ua_79",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Third Blair ministry and also the head of state of Russia?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Tony Blair was the Prime Minister of the United Kingdom during the Third Blair ministry, but he has never been the head of state of Russia. The head of state of Russia is the President, and as of my last update, the President of Russia is Vladimir Putin, not"
+  },
+  {
+    "qid": "inter_ua_80",
+    "category": "unanswerable",
+    "question": "Who has been both the head of government of Second term of Tung Chee-hwa as Chief Executive of Hong Kong and also the head of state of Kenya?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has been both the head of government of Tung Chee-hwa's second term as Chief Executive of Hong Kong and the head of state of Kenya. Tung Chee-hwa served as the first Chief Executive of the Hong Kong Special Administrative"
+  },
+  {
+    "qid": "inter_ua_81",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First Major ministry and also the child of Arturo Alessandri?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Arturo Alessandri Palma was the President of Chile from 1920 to 1925 and 1932 to 1933, but I could not find information about his child serving as the head of government of a major ministry."
+  },
+  {
+    "qid": "inter_ua_82",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Communaut\u00e9 d'agglom\u00e9ration de l'Ouest Rhodanien and also the child of Nerva?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The Communaut\u00e9 d'agglom\u00e9ration de l'Ouest Rhodanien is a French intercommunal structure, and Nerva was a Roman Emperor who reigned from 96 to 98 AD. Therefore, it is not possible for someone to have been"
+  },
+  {
+    "qid": "inter_ua_83",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First term of Tung Chee-hwa as Chief Executive of Hong Kong and also the child of Virgin Mary?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Tung Chee-hwa was the first Chief Executive of Hong Kong, serving from 1997 to 2005. However, the position of head of government in Hong Kong is the Chief Executive, not a child of the Virgin Mary. Therefore, no person"
+  },
+  {
+    "qid": "inter_ua_84",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Wei\u00dfenburg-Gunzenhausen and also the child of Carlota Joaquina of Spain?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Wei\u00dfenburg-Gunzenhausen and also the child of Carlota Joaquina of Spain. Carlota Joaquina of Spain was the Queen consort of Portugal, not Germany."
+  },
+  {
+    "qid": "inter_ua_85",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Twenty-seventh government of Israel and also the child of Keke Geladze?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Naftali Bennett, who served as the head of the 37th government of Israel (2021-2022), is not the child of Keke Geladze. Keke Geladze is a Georgian politician and former Minister of Foreign Affairs of"
+  },
+  {
+    "qid": "inter_ua_86",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Thirty-second government of Israel and also the child of Jupiter?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "The question is a mix of two unrelated topics. The 32nd head of government of Israel is Naftali Bennett, who served as Prime Minister from June 13, 2021, to December 29, 2022. Jupiter, on the other hand,"
+  },
+  {
+    "qid": "inter_ua_87",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Confederation of Norwegian Enterprise and also the child of Francisco Antonio Pinto?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Confederation of Norwegian Enterprise and also the child of Francisco Antonio Pinto. Francisco Antonio Pinto is a Portuguese businessman, and the Confederation of Norwegian Enterprise is a Norwegian employers' organization, so it is"
+  },
+  {
+    "qid": "inter_ua_88",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Nagasaki Prefecture and also the child of Jawaharlal Nehru?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Nagasaki Prefecture and is also the child of Jawaharlal Nehru. Jawaharlal Nehru was the first Prime Minister of India, and his children have not held political"
+  },
+  {
+    "qid": "inter_ua_89",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Second Merkel cabinet and also the child of Julius Caesar?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Angela Merkel has been the head of government of the Federal Republic of Germany, but she is not the child of Julius Caesar. Julius Caesar lived in ancient Rome, and Angela Merkel is a contemporary German politician."
+  },
+  {
+    "qid": "inter_ua_90",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Cabinet Schr\u00f6der I and also the child of Marcus Aurelius?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Cabinet Schr\u00f6der I and also the child of Marcus Aurelius. Marcus Aurelius was a Roman Emperor, and the German Chancellor Gerhard Schr\u00f6der served in the Cabinet"
+  },
+  {
+    "qid": "inter_ua_91",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First term of Donald Tsang as Chief Executive of Hong Kong and also the child of George H. W. Bush?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. George H. W. Bush was the 41st President of the United States, and his son, George W. Bush, was the 43rd President. Neither of them served as the head of government of Hong Kong during Donald Tsang's term as Chief Executive,"
+  },
+  {
+    "qid": "inter_ua_92",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Li Keqiang Government and also the child of Trajan?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Li Keqiang served as the Premier of the People's Republic of China from 2008 to 2023 (assuming he is still in office as of 2023), but he is not related to Trajan, who was the Roman"
+  },
+  {
+    "qid": "inter_ua_93",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Eritrea and also the child of Claudius?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Claudius was a Roman Emperor, and Eritrea is a country in East Africa that has never had a Roman Emperor as its head of government. Therefore, no one could have been both the head of government of Eritrea and the child of Claudius."
+  },
+  {
+    "qid": "inter_ua_94",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Galactic Empire and also the child of Hadrian?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The Galactic Empire is a fictional government from the Star Wars universe, while Hadrian was a Roman Emperor who lived in the 2nd century AD. There is no known connection between the two in reality or in fiction."
+  },
+  {
+    "qid": "inter_ua_95",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Iwate Prefecture and also the child of Cleopatra V of Egypt?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical record of anyone being both the head of government of Iwate Prefecture and the child of Cleopatra V of Egypt. Cleopatra V was the last active ruler of the Ptolemaic Kingdom of Egypt, and she died in"
+  },
+  {
+    "qid": "inter_ua_96",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Gabon and also the child of Ptolemy XII Auletes?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Ptolemy XII Auletes was the last native ruler of the Ptolemaic Kingdom of Egypt, and Gabon is a country in Central Africa. There is no known historical figure who was the head of government of Gabon and also the child of Ptole"
+  },
+  {
+    "qid": "inter_ua_97",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Fourth cabinet of Napoleon III and also the child of Frederick III, German Emperor?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. Napoleon III was the Emperor of France, not the head of government of France during his fourth cabinet. Frederick III, German Emperor, did not have a child who served as the head of government of France."
+  },
+  {
+    "qid": "inter_ua_98",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Russian Socialist Federative Soviet Republic and also the child of Gordian II?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of the Russian Socialist Federative Soviet Republic and also the child of Gordian II. Gordian II was a Roman Emperor, and the Russian Socialist Federative Soviet Republic did not exist during the Roman Empire period."
+  },
+  {
+    "qid": "inter_ua_99",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of First cabinet of Louis Napoleon and also the child of Mars?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. The question seems to be a mix of historical figures and mythology, which creates an impossible combination. Louis-Napoleon Bonaparte, also known as Napoleon III, was the head of the first cabinet of the Second French Empire, not a child of Mars. Mars is a"
+  },
+  {
+    "qid": "inter_ua_100",
+    "category": "unanswerable",
+    "question": "Who has been the head of government of Second cabinet of Louis Napoleon and also the child of Lucius Aemilius Paullus Macedonicus?",
+    "reference_answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "model_response": "I don't know. There is no historical figure who has been the head of government of the Second cabinet of Louis Napoleon and also the child of Lucius Aemilius Paullus Macedonicus. Lucius Aemilius Paullus Macedonicus was a Roman consul and military"
+  },
+  {
+    "qid": "inter_ab_1",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Dominion of Ghana and also the father of Sekou Nkrumah?",
+    "reference_answer": [
+      {
+        "label": "Kwame Nkrumah",
+        "id": "Q8620"
+      }
+    ],
+    "model_response": "Kwame Nkrumah was the head of government of the Dominion of Ghana (officially known as the Gold Coast at the time) from 1957 to 1960. He was also the father of Sekou Nkrumah. However, it's"
+  },
+  {
+    "qid": "inter_ab_2",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of United States of America and also the father of Naomi Biden?",
+    "reference_answer": [
+      {
+        "label": "Joe Biden",
+        "id": "Q6279"
+      }
+    ],
+    "model_response": "The individual you are referring to is James Biden. He served as a member of the U.S. Senate from Delaware for a short period in 1973, but his tenure was cut short due to a car accident. His son, Beau Biden, was the father of Naomi Biden."
+  },
+  {
+    "qid": "inter_ab_3",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Poland and also the father of Katarzyna Tusk?",
+    "reference_answer": [
+      {
+        "label": "Donald Tusk",
+        "id": "Q946"
+      }
+    ],
+    "model_response": "The individual you are referring to is Donald Tusk. He served as the Prime Minister of Poland from 2007 to 2014 and is the father of Katarzyna Tusk. However, it's important to note that Katarzyna Tusk is not a head of government"
+  },
+  {
+    "qid": "inter_ab_4",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Saint Vincent and the Grenadines and also the father of Camillo Gonsalves?",
+    "reference_answer": [
+      {
+        "label": "Ralph Gonsalves",
+        "id": "Q57800"
+      }
+    ],
+    "model_response": "The individual you are referring to is James Mitchell. He served as the Prime Minister of Saint Vincent and the Grenadines from 1984 to 2000. Camillo Gonsalves is his son, who has also served as the Prime Minister of Saint Vincent and the Grenadines since"
+  },
+  {
+    "qid": "inter_ab_5",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Mori Cabinet (Second Reshuffle) and also the father of Y\u016bki Mori?",
+    "reference_answer": [
+      {
+        "label": "Yoshir\u014d Mori",
+        "id": "Q233499"
+      }
+    ],
+    "model_response": "The individual you are referring to is Shinzo Abe. He served as the Prime Minister of Japan during the Second Mori Cabinet (Second Reshuffle) from September 2008 to September 2009. Additionally, Shinzo Abe is the father of Y\u016bki A"
+  },
+  {
+    "qid": "inter_ab_6",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Mori Cabinet and also the father of Y\u016bki Mori?",
+    "reference_answer": [
+      {
+        "label": "Yoshir\u014d Mori",
+        "id": "Q233499"
+      }
+    ],
+    "model_response": "The individual you are referring to is Yoshiro Mori. He served as the Prime Minister of Japan during the Second Mori Cabinet from April 2000 to April 2001. Yoshiro Mori is also the father of Y\u016bki Mori, who is a Japanese politician"
+  },
+  {
+    "qid": "inter_ab_7",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Nakasone Cabinet (Second Reshuffle) and also the father of Hirofumi Nakasone?",
+    "reference_answer": [
+      {
+        "label": "Yasuhiro Nakasone",
+        "id": "Q250828"
+      }
+    ],
+    "model_response": "The individual you're referring to is Kakuei Tanaka. He served as the Prime Minister of Japan during the Second Nakasone Cabinet (Second Reshuffle) from 1972 to 1974. Hirofumi Nakasone, on the other hand, was"
+  },
+  {
+    "qid": "inter_ab_8",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First Nakasone Cabinet and also the father of Hirofumi Nakasone?",
+    "reference_answer": [
+      {
+        "label": "Yasuhiro Nakasone",
+        "id": "Q250828"
+      }
+    ],
+    "model_response": "The question is asking for someone who was the head of government of the First Nakasone Cabinet and also the father of Hirofumi Nakasone. However, there seems to be a misunderstanding in the question as Hirofumi Nakasone was actually the grandfather of Yasuhiro Nakas"
+  },
+  {
+    "qid": "inter_ab_9",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Chad and also the father of Mahamat D\u00e9by Itno?",
+    "reference_answer": [
+      {
+        "label": "Idriss D\u00e9by",
+        "id": "Q57350"
+      }
+    ],
+    "model_response": "The individual you're referring to is Idiss D\u00e9by Itno. He served as the President of Chad from 1990 until his death in 2021. Mahamat D\u00e9by Itno, his son, succeeded him as the President of Chad."
+  },
+  {
+    "qid": "inter_ab_10",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Brunei Darussalam and also the father of Prince Mateen of Brunei?",
+    "reference_answer": [
+      {
+        "label": "Hassanal Bolkiah I of Brunei",
+        "id": "Q57327"
+      }
+    ],
+    "model_response": "The individual you are referring to is Sultan Hassanal Bolkiah. He is the current Sultan and Prime Minister of Brunei Darussalam, and the father of Prince Mateen of Brunei. Prince Mateen, also known as Prince 'Abdul Mateen, is"
+  },
+  {
+    "qid": "inter_ab_11",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Singapore and also the father of Lee Xiu Qi?",
+    "reference_answer": [
+      {
+        "label": "Lee Hsien Loong",
+        "id": "Q57643"
+      }
+    ],
+    "model_response": "Lee Hsien Loong, the current Prime Minister of Singapore, is the father of Lee Xiu Qi. However, it's important to note that Lee Xiu Qi is not a public figure, and information about her is not widely available. Lee Hsien Loong has been the Head of"
+  },
+  {
+    "qid": "inter_ab_12",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Dominion of India and also the father of Indira Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Jawaharlal Nehru",
+        "id": "Q1047"
+      }
+    ],
+    "model_response": "Jawaharlal Nehru was the head of government of the Dominion of India and the father of Indira Gandhi. He served as the first Prime Minister of India from 1947 until his death in 1964."
+  },
+  {
+    "qid": "inter_ab_13",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Cabinet Bismarck and also the father of Wilhelm von Bismarck?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "The question is asking for the father of Wilhelm von Bismarck who was also a head of government under Cabinet Bismarck. However, it's important to note that Otto von Bismarck, the famous Chancellor of Germany, was not the father of Wilhelm von Bismarck"
+  },
+  {
+    "qid": "inter_ab_14",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of North German Confederation and also the father of Wilhelm von Bismarck?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "The individual you're referring to is Otto von Bismarck. He served as the Chancellor of the North German Confederation and the German Empire, and he was the father of Wilhelm von Bismarck. However, it's important to note that Wilhelm von Bismarck was not a"
+  },
+  {
+    "qid": "inter_ab_15",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Nehru ministry and also the father of Indira Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Jawaharlal Nehru",
+        "id": "Q1047"
+      }
+    ],
+    "model_response": "The individual you're referring to is Jawaharlal Nehru. He served as the head of government of the Second Nehru Ministry from 1952 to 1964. Additionally, he was the father of Indira Gandhi."
+  },
+  {
+    "qid": "inter_ab_16",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Third Cabinet of Donald Tusk and also the father of Katarzyna Tusk?",
+    "reference_answer": [
+      {
+        "label": "Donald Tusk",
+        "id": "Q946"
+      }
+    ],
+    "model_response": "Grzegorz Schetyna was one of the head of government (Deputy Prime Minister and Minister of Administration and Digitization) in the Third Cabinet of Donald Tusk. However, he is not the father of Katarzyna Tusk. Katarzyna Tusk is the daughter of"
+  },
+  {
+    "qid": "inter_ab_17",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Japan and also the father of Shotaro Kishida?",
+    "reference_answer": [
+      {
+        "label": "Fumio Kishida",
+        "id": "Q359480"
+      }
+    ],
+    "model_response": "The individual you are referring to is Eisaku Sato. He was the Prime Minister of Japan from 1964 to 1972. Shotaro Kishida is his son-in-law, as he married his daughter Yuko Sato. However, it's important"
+  },
+  {
+    "qid": "inter_ab_18",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Government of National Unity and also the father of Thembekile Mandela?",
+    "reference_answer": [
+      {
+        "label": "Nelson Mandela",
+        "id": "Q8023"
+      }
+    ],
+    "model_response": "The person you're referring to is Thabo Mbeki. He served as the head of government of the Government of National Unity in South Africa from 2008 to 2009. Thembekile Mandela is his son. Thabo Mbeki is also the"
+  },
+  {
+    "qid": "inter_ab_19",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Y. Hatoyama Cabinet and also the father of Kiichir\u014d Hatoyama?",
+    "reference_answer": [
+      {
+        "label": "Yukio Hatoyama",
+        "id": "Q131077"
+      }
+    ],
+    "model_response": "The individual you are referring to is Ichiro Hatoyama. He served as the Prime Minister of Japan from June 2009 to June 2010, leading the Democratic Party of Japan (DPJ) and the Y. Hatoyama Cabinet. Ichiro Hatoyama is"
+  },
+  {
+    "qid": "inter_ab_20",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Maurya empire and also the father of Ashoka?",
+    "reference_answer": [
+      {
+        "label": "Bindusara",
+        "id": "Q315526"
+      }
+    ],
+    "model_response": "The individual you are referring to is Chandragupta Maurya. He was the founder of the Maurya Empire in India and the father of Ashoka. He served as the head of government from approximately 322 BCE to 298 BCE. Ashoka, his son,"
+  },
+  {
+    "qid": "inter_ab_21",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Fourth cabinet of Napoleon III and also the father of Napol\u00e9on, Prince Imperial?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The individual you're referring to is Prince Louis-Napol\u00e9on Bonaparte, who served as the President of the French Council of Ministers (effectively the head of government) in the Fourth French Empire under Napoleon III from 1851 to 1852. It's important"
+  },
+  {
+    "qid": "inter_ab_22",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First cabinet of Louis Napoleon and also the father of Napol\u00e9on, Prince Imperial?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The individual you're referring to is Charles-Louis Napol\u00e9on Bonaparte, also known as Charles, Prince Imperial. He served as the Minister of War in the First French Empire under his uncle, Louis-Napoleon Bonaparte (Napoleon III), who was the head"
+  },
+  {
+    "qid": "inter_ab_23",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Bonaire and also the father of Princess Ariane of the Netherlands?",
+    "reference_answer": [
+      {
+        "label": "Willem-Alexander of the Netherlands",
+        "id": "Q154952"
+      }
+    ],
+    "model_response": "The individual you are referring to is Prince Bernhard of Lippe-Biesterfeld. He served as the first Governor of Bonaire from 1954 to 1964. Princess Ariane of the Netherlands is his daughter, born to Queen Beatrix and Prince Bernhard."
+  },
+  {
+    "qid": "inter_ab_24",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Galactic Empire and also the father of Supreme Leader Snoke?",
+    "reference_answer": [
+      {
+        "label": "Palpatine",
+        "id": "Q51770"
+      }
+    ],
+    "model_response": "I don't know. The Star Wars universe, as presented in the films, does not provide information about a character who has been the head of the Galactic Empire and is also the father of Supreme Leader Snoke. The character of Snoke is introduced in Star Wars: The Force Awakens as"
+  },
+  {
+    "qid": "inter_ab_25",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Churchill caretaker ministry and also the father of Diana Churchill?",
+    "reference_answer": [
+      {
+        "label": "Winston Churchill",
+        "id": "Q8016"
+      }
+    ],
+    "model_response": "The question is somewhat confusing as it seems to conflate two different individuals. Winston Churchill was the head of the government of the United Kingdom during the Churchill caretaker ministry, but he is not the father of Diana Churchill. Diana Churchill was the daughter of Sir Winston Churchill's first wife,"
+  },
+  {
+    "qid": "inter_ab_26",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Third Thatcher ministry and also the mother of Mark Thatcher?",
+    "reference_answer": [
+      {
+        "label": "Margaret Thatcher",
+        "id": "Q7416"
+      }
+    ],
+    "model_response": "The individual you're referring to is Denis Thatcher. Although Denis Thatcher was not the head of government, he was the husband of Margaret Thatcher, who served as the Prime Minister of the United Kingdom during the Third Thatcher ministry. Mark Thatcher is their son. However"
+  },
+  {
+    "qid": "inter_ab_27",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Bangladesh and also the mother of Saima Wazed?",
+    "reference_answer": [
+      {
+        "label": "Sheikh Hasina",
+        "id": "Q52183"
+      }
+    ],
+    "model_response": "The individual you are referring to is Sheikh Hasina. She is a Bangladeshi politician who has served as the Prime Minister of Bangladesh since 2009 and is also the mother of Saima Wazed, a technology policy advisor to the Prime Minister of Bangladesh."
+  },
+  {
+    "qid": "inter_ab_28",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Thatcher ministry and also the mother of Mark Thatcher?",
+    "reference_answer": [
+      {
+        "label": "Margaret Thatcher",
+        "id": "Q7416"
+      }
+    ],
+    "model_response": "The question is somewhat confusing as it refers to a \"Second Thatcher ministry,\" but Margaret Thatcher was the only Prime Minister of the United Kingdom during her tenure from 1979 to 1990. However, her son Mark Thatcher's mother is indeed Margaret Thatch"
+  },
+  {
+    "qid": "inter_ab_29",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Second Indira Gandhi Ministry and also the mother of Sanjay Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Indira Gandhi",
+        "id": "Q1149"
+      }
+    ],
+    "model_response": "The person you are referring to is Indira Gandhi herself. She served as the Prime Minister of India during the Second Indira Gandhi Ministry, and her son Sanjay Gandhi was born to her."
+  },
+  {
+    "qid": "inter_ab_30",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First Indira Gandhi Ministry and also the mother of Sanjay Gandhi?",
+    "reference_answer": [
+      {
+        "label": "Indira Gandhi",
+        "id": "Q1149"
+      }
+    ],
+    "model_response": "The person you are referring to is Indira Gandhi herself. She served as the Prime Minister of India from 1966 to 1977 and 1980 to 1984. Sanjay Gandhi was her son."
+  },
+  {
+    "qid": "inter_ab_31",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Presidency of Cristina Fern\u00e1ndez de Kirchner and also the mother of M\u00e1ximo Kirchner?",
+    "reference_answer": [
+      {
+        "label": "Cristina Fern\u00e1ndez de Kirchner",
+        "id": "Q40649"
+      }
+    ],
+    "model_response": "The person you're referring to is Eugenia Fern\u00e1ndez de Kirchner. She served as the head of the Argentine Cabinet of Ministers during the presidency of her daughter, Cristina Fern\u00e1ndez de Kirchner. Additionally, she is the mother of N\u00e9stor Kirchner,"
+  },
+  {
+    "qid": "inter_ab_32",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of First Sirimavo Bandaranaike cabinet and also the mother of Chandrika Kumaratunga?",
+    "reference_answer": [
+      {
+        "label": "Sirimavo Bandaranaike",
+        "id": "Q194291"
+      }
+    ],
+    "model_response": "Sirimavo Bandaranaike herself. She served as the Prime Minister of Sri Lanka three times, the first woman in the world to lead a nation three times. She was the mother of Chandrika Kumaratunga, who also served as the President of Sri Lanka."
+  },
+  {
+    "qid": "inter_ab_33",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Pontevedra Province and also the mother of Iago Falque?",
+    "reference_answer": [
+      {
+        "label": "Carmela Silva",
+        "id": "Q2939561"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly available information that connects a specific head of government of Pontevedra Province with Iago Falque's mother. Iago Falque is a Spanish footballer, and there is no indication that he has a parent who has held a political position in Ponte"
+  },
+  {
+    "qid": "inter_ab_34",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Vilafant and also the mother of Mireia Veh\u00ed i Cantenys?",
+    "reference_answer": [
+      {
+        "label": "Consol Cantenys Arbol\u00ed",
+        "id": "Q14077081"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly available information that indicates a person has held the position of head of government in Vilafant, a municipality in Spain, and is also the mother of Mireia Veh\u00ed i Cantenys. Mireia Veh\u00ed i Cantenys is a"
+  },
+  {
+    "qid": "inter_ab_35",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Honduras and also the mother of Xiomara Zelaya?",
+    "reference_answer": [
+      {
+        "label": "Xiomara Castro",
+        "id": "Q8044708"
+      }
+    ],
+    "model_response": "Xiomara Castro, the current President of Honduras, was the daughter of General Jos\u00e9 Azcona del Hoyo, who served as the head of government of Honduras from 1986 to 1989. However, it is important to note that Azcona del"
+  },
+  {
+    "qid": "inter_ab_36",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Le Chambon-sur-Lignon and also the mother of Laurent Wauquiez?",
+    "reference_answer": [
+      {
+        "label": "\u00c9liane Wauquiez-Motte",
+        "id": "Q47495173"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly available information that indicates a person has been both the head of government of Le Chambon-sur-Lignon and the mother of Laurent Wauquiez. Laurent Wauquiez is a French politician, and his mother's name"
+  },
+  {
+    "qid": "inter_ab_37",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Puebla del Prior and also the mother of Michael Bowen?",
+    "reference_answer": [
+      {
+        "label": "Mar\u00eda del Carmen",
+        "id": "Q34228232"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly available information that connects a head of government of Puebla del Prior with Michael Bowen's mother."
+  },
+  {
+    "qid": "inter_ab_38",
+    "category": "answerable",
+    "question": "Who has been one of the head of government of Lavangen Municipality and also the mother of Cecilie Myrseth?",
+    "reference_answer": [
+      {
+        "label": "Hege Beate Rollmoen",
+        "id": "Q87735325"
+      }
+    ],
+    "model_response": "I don't know. There is no publicly available information that connects a head of government of Lavangen Municipality with Cecilie Myrseth as her mother."
+  },
+  {
+    "qid": "inter_ab_39",
+    "category": "answerable",
+    "question": "Who has been the head of government of United States of America and also the spouse of Neilia Hunter?",
+    "reference_answer": [
+      {
+        "label": "Joe Biden",
+        "id": "Q6279"
+      }
+    ],
+    "model_response": "The individual you are referring to is Spiro Agnew. He served as the Vice President of the United States under President Richard Nixon from 1969 to 1973. However, it's important to note that Neilia Hunter was not a public figure, and she passed away in a car"
+  },
+  {
+    "qid": "inter_ab_40",
+    "category": "answerable",
+    "question": "Who has been the head of government of Cabinet Bismarck and also the spouse of Johanna von Puttkamer?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "I don't know. There is no known individual who has been the head of government of Cabinet Bismarck and also the spouse of Johanna von Puttkamer. Johanna von Puttkamer was a German noblewoman, but she never held a position as the head of government. Otto"
+  },
+  {
+    "qid": "inter_ab_41",
+    "category": "answerable",
+    "question": "Who has been the head of government of North German Confederation and also the spouse of Johanna von Puttkamer?",
+    "reference_answer": [
+      {
+        "label": "Otto von Bismarck",
+        "id": "Q8442"
+      }
+    ],
+    "model_response": "The question is asking for someone who was the head of the North German Confederation and was married to Johanna von Puttkamer. However, there is no known individual who fits this description. The North German Confederation was a political union of several German states that existed from 1867 to 1"
+  },
+  {
+    "qid": "inter_ab_42",
+    "category": "answerable",
+    "question": "Who has been the head of government of Bangladesh and also the spouse of M. A. Wazed Miah?",
+    "reference_answer": [
+      {
+        "label": "Sheikh Hasina",
+        "id": "Q52183"
+      }
+    ],
+    "model_response": "The individual you are referring to is Sheikh Hasina. She is the Prime Minister of Bangladesh since January 2009 and was married to M. A. Wazed Miah, who served as the Advisor to the Prime Minister on Information and Communication Technology from 2009 to"
+  },
+  {
+    "qid": "inter_ab_43",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi IV Cabinet and also the spouse of Veronica Lario?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "Veronica Lario, who is better known by her maiden name Veronica Berti, was not the head of government of the Berlusconi IV Cabinet. She was, however, the wife of Silvio Berlusconi, the Prime Minister of Italy during the Berl"
+  },
+  {
+    "qid": "inter_ab_44",
+    "category": "answerable",
+    "question": "Who has been the head of government of Turkey and also the spouse of Emine Erdo\u011fan?",
+    "reference_answer": [
+      {
+        "label": "Recep Tayyip Erdo\u011fan",
+        "id": "Q39259"
+      }
+    ],
+    "model_response": "Recep Tayyip Erdo\u011fan, the current President of Turkey, has been the head of government of Turkey in the past. However, he is not the spouse of Emine Erdo\u011fan. Emine Erdo\u011fan is not a political figure and does not hold a position like head of government"
+  },
+  {
+    "qid": "inter_ab_45",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brown ministry and also the spouse of Sarah Brown?",
+    "reference_answer": [
+      {
+        "label": "Gordon Brown",
+        "id": "Q10648"
+      }
+    ],
+    "model_response": "Gordon Brown, the former Prime Minister of the United Kingdom, was the head of the Brown ministry. His wife, Sarah Brown, is not a head of government. Therefore, she has not been the spouse of a head of government of the Brown ministry."
+  },
+  {
+    "qid": "inter_ab_46",
+    "category": "answerable",
+    "question": "Who has been the head of government of Maurya empire and also the spouse of Subhadrangi?",
+    "reference_answer": [
+      {
+        "label": "Bindusara",
+        "id": "Q315526"
+      }
+    ],
+    "model_response": "I don't know. The Maurya Empire was a historical Indian empire that existed from 322 BC to 185 BC, and it is not known that any of its rulers were married to a woman named Subhadrangi. The most famous ruler of the Maurya"
+  },
+  {
+    "qid": "inter_ab_47",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brazil and also the spouse of Ros\u00e2ngela Lula da Silva?",
+    "reference_answer": [
+      {
+        "label": "Luiz In\u00e1cio Lula da Silva",
+        "id": "Q37181"
+      }
+    ],
+    "model_response": "Luiz In\u00e1cio Lula da Silva has been the head of government of Brazil, serving as President from 2003 to 2011. Ros\u00e2ngela Lula da Silva is his wife. Therefore, Ros\u00e2ngela Lula da Silva's spouse has been the head of"
+  },
+  {
+    "qid": "inter_ab_48",
+    "category": "answerable",
+    "question": "Who has been the head of government of Democratic Federal Yugoslavia and also the spouse of Herta Haas?",
+    "reference_answer": [
+      {
+        "label": "Josip Broz",
+        "id": "Q9161"
+      }
+    ],
+    "model_response": "I don't know. The Democratic Federal Yugoslavia, which existed from 1992 to 2003, was a short-lived political entity that consisted of Serbia and Montenegro. It's not immediately clear if the head of government during that time was married"
+  },
+  {
+    "qid": "inter_ab_49",
+    "category": "answerable",
+    "question": "Who has been the head of government of Churchill caretaker ministry and also the spouse of Clementine Churchill, Baroness Spencer-Churchill?",
+    "reference_answer": [
+      {
+        "label": "Winston Churchill",
+        "id": "Q8016"
+      }
+    ],
+    "model_response": "Clementine Churchill, Baroness Spencer-Churchill was not the head of government. She was the spouse of Sir Winston Churchill, who served as the head of the Churchill caretaker ministry during the transition period between the resignation of Neville Chamberlain's government and the formation of W"
+  },
+  {
+    "qid": "inter_ab_50",
+    "category": "answerable",
+    "question": "Who has been the head of government of Third Churchill ministry and also the spouse of Clementine Churchill, Baroness Spencer-Churchill?",
+    "reference_answer": [
+      {
+        "label": "Winston Churchill",
+        "id": "Q8016"
+      }
+    ],
+    "model_response": "The head of the Third Churchill ministry was Winston Churchill himself. Clementine Churchill, Baroness Spencer-Churchill, was not a head of government. She was Winston Churchill's wife."
+  },
+  {
+    "qid": "inter_ab_51",
+    "category": "answerable",
+    "question": "Who has been the head of government of Government of National Unity and also the spouse of Winnie Madikizela-Mandela?",
+    "reference_answer": [
+      {
+        "label": "Nelson Mandela",
+        "id": "Q8023"
+      }
+    ],
+    "model_response": "The head of the Government of National Unity in South Africa was Thabo Mbeki, not Winnie Madikizela-Mandela. Winnie Madikizela-Mandela was married to Nelson Mandela, not Thabo Mbeki. Therefore, Winnie"
+  },
+  {
+    "qid": "inter_ab_52",
+    "category": "answerable",
+    "question": "Who has been the head of government of Fourth cabinet of Napoleon III and also the spouse of Eug\u00e8nie de Montijo?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The head of government of the Fourth cabinet of Napoleon III was \u00c9mile Ollivier. However, Eug\u00e9nie de Montijo, who was the spouse of Napoleon III, did not serve as the head of government herself."
+  },
+  {
+    "qid": "inter_ab_53",
+    "category": "answerable",
+    "question": "Who has been the head of government of First cabinet of Louis Napoleon and also the spouse of Eug\u00e8nie de Montijo?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The person you're referring to is Napoleon III. He served as the head of government of the First French Empire, specifically as the President of the Council of Ministers from 1848 to 1851, and later as Emperor of the French from 1852 to 18"
+  },
+  {
+    "qid": "inter_ab_54",
+    "category": "answerable",
+    "question": "Who has been the head of government of Israel and also the spouse of Sara Netanyahu?",
+    "reference_answer": [
+      {
+        "label": "Benjamin Netanyahu",
+        "id": "Q43723"
+      }
+    ],
+    "model_response": "I don't know. Sara Netanyahu is the wife of Benjamin Netanyahu, who has been the Prime Minister of Israel multiple times, but there is no record of her having held a position as the head of government herself."
+  },
+  {
+    "qid": "inter_ab_55",
+    "category": "answerable",
+    "question": "Who has been the head of government of Singapore and also the spouse of Ho Ching?",
+    "reference_answer": [
+      {
+        "label": "Lee Hsien Loong",
+        "id": "Q57643"
+      }
+    ],
+    "model_response": "The individual you are referring to is Lee Hsien Loong. He has served as the Prime Minister of Singapore since 2004, and his wife, Ho Ching, is the CEO of Temasek Holdings, a Singaporean investment company. However, it's important to note that Ho"
+  },
+  {
+    "qid": "inter_ab_56",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brunei Darussalam and also the spouse of Queen Saleha of Brunei?",
+    "reference_answer": [
+      {
+        "label": "Hassanal Bolkiah I of Brunei",
+        "id": "Q57327"
+      }
+    ],
+    "model_response": "The head of government of Brunei Darussalam, as of my last update, is Sultan Haji Hassanal Bolkiah. He has been the Sultan and Prime Minister of Brunei since 1967. However, Queen Saleha of Brunei, whose given name"
+  },
+  {
+    "qid": "inter_ab_57",
+    "category": "answerable",
+    "question": "Who has been the head of government of First Merkel cabinet and also the spouse of Ulrich Merkel?",
+    "reference_answer": [
+      {
+        "label": "Angela Merkel",
+        "id": "Q567"
+      }
+    ],
+    "model_response": "I don't know. Ulrich Merkel is not related to Angela Merkel, the former Chancellor of Germany. Angela Merkel was never married, and her husband is not named Ulrich."
+  },
+  {
+    "qid": "inter_ab_58",
+    "category": "answerable",
+    "question": "Who has been the head of government of Blair governments and also the spouse of Cherie Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "Tony Blair, the former Prime Minister of the United Kingdom, was married to Cherie Blair. However, it's important to note that Cherie Blair is not a head of government; she is a lawyer and a political activist. Tony Blair served as the Prime Minister from 199"
+  },
+  {
+    "qid": "inter_ab_59",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the spouse of Veronica Lario?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "The head of the Berlusconi III Cabinet, which served from 2008 to 2011, was Silvio Berlusconi himself. However, Veronica Lario, who is Silvio Berlusconi's ex-wife,"
+  },
+  {
+    "qid": "inter_ab_60",
+    "category": "answerable",
+    "question": "Who has been the head of government of First Blair Ministry and also the spouse of Cherie Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "The individual you're referring to is Tony Blair. He served as the Prime Minister of the United Kingdom, leading the First Blair Ministry from 1997 to 2007. Tony Blair is also the husband of Cherie Blair, a British lawyer and politician."
+  },
+  {
+    "qid": "inter_ab_61",
+    "category": "answerable",
+    "question": "Who has been the head of government of Dubai and also the spouse of Hind bint Maktoum bin Juma Al-Maktoum?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Rashid Al Maktoum",
+        "id": "Q57655"
+      }
+    ],
+    "model_response": "I don't know. The information provided does not specify a particular individual who has been the head of government of Dubai and also the spouse of Hind bint Maktoum bin Juma Al-Maktoum. The head of government in Dubai is the Ruler, currently Sheikh Mohammed"
+  },
+  {
+    "qid": "inter_ab_62",
+    "category": "answerable",
+    "question": "Who has been the head of government of Dominion of Ghana and also the spouse of Fathia Nkrumah?",
+    "reference_answer": [
+      {
+        "label": "Kwame Nkrumah",
+        "id": "Q8620"
+      }
+    ],
+    "model_response": "The Dominion of Ghana does not exist in current or historical records. Ghana gained independence from the United Kingdom in 1957 as the Republic of Ghana. Therefore, there was no head of government for the Dominion of Ghana. Additionally, Fathia Nkrumah was the wife"
+  },
+  {
+    "qid": "inter_ab_63",
+    "category": "answerable",
+    "question": "Who has been the head of government of First term of Donald Tsang as Chief Executive of Hong Kong and also the spouse of Selina Tsang?",
+    "reference_answer": [
+      {
+        "label": "Donald Tsang",
+        "id": "Q15024"
+      }
+    ],
+    "model_response": "Selina Tsang, who is the spouse of Donald Tsang, was not the head of government during Donald Tsang's first term as Chief Executive of Hong Kong. Donald Tsang served as the Chief Executive from 2005 to 2012, and his wife, Selina Tsang"
+  },
+  {
+    "qid": "inter_ab_64",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Fourth cabinet of Napoleon III and also the head of state of Second French Empire?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "Napoleon III was both the head of government and the head of state of the Second French Empire. He served as the Emperor of France from 1852 until his deposition in 1870. During his reign, he held various roles, including serving as the President of the Council (effectively the"
+  },
+  {
+    "qid": "inter_ab_65",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Galactic Empire and also the head of state of Galactic Republic?",
+    "reference_answer": [
+      {
+        "label": "Palpatine",
+        "id": "Q51770"
+      }
+    ],
+    "model_response": "I don't know. The Galactic Empire and Galactic Republic are fictional governments from the Star Wars universe, and as far as the official canon is concerned, there has been no character who has held both positions. However, in fan fiction or extended universe stories, such a character might be created."
+  },
+  {
+    "qid": "inter_ab_66",
+    "category": "answerable",
+    "question": "Who has been both the head of government of fascism in Romania and also the head of state of Transnistria Governorate?",
+    "reference_answer": [
+      {
+        "label": "Ion Antonescu",
+        "id": "Q152030"
+      }
+    ],
+    "model_response": "I don't know. There is no individual who has held both positions as the head of government of fascism in Romania and the head of state of the Transnistria Governorate. Horia Sima, who was a Romanian politician and leader of the Iron Guard, was the head of government of"
+  },
+  {
+    "qid": "inter_ab_67",
+    "category": "answerable",
+    "question": "Who has been both the head of government of First cabinet of Louis Napoleon and also the head of state of Second French Empire?",
+    "reference_answer": [
+      {
+        "label": "Napoleon III",
+        "id": "Q7721"
+      }
+    ],
+    "model_response": "The individual you are referring to is Louis-Napoleon Bonaparte, also known as Napoleon III. He served as the President of the French Second Republic and the First President of the French Second Empire, which is the First cabinet of Louis Napoleon. After a referendum, he became the Emperor of the"
+  },
+  {
+    "qid": "inter_ab_68",
+    "category": "answerable",
+    "question": "Who has been both the head of government of National People's Army and also the head of state of German Democratic Republic?",
+    "reference_answer": [
+      {
+        "label": "Willi Stoph",
+        "id": "Q2610"
+      }
+    ],
+    "model_response": "Erich Honecker served as the head of government of the National People's Army (NVA) as Minister of National Defense from 1973 to 1989, and as the head of state of the German Democratic Republic (GDR) as the General Secretary of the Socialist Un"
+  },
+  {
+    "qid": "inter_ab_69",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Baiti District and also the head of state of Nauru?",
+    "reference_answer": [
+      {
+        "label": "David Adeang",
+        "id": "Q58096"
+      }
+    ],
+    "model_response": "I don't know. Lionel Aingimea is the current President of Nauru, but he has not held the position of head of government in Baiti District as it is not a separate government entity. The President of Nauru is the head of state, while the President of the Parliament"
+  },
+  {
+    "qid": "inter_ab_70",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Nibok District and also the head of state of Nauru?",
+    "reference_answer": [
+      {
+        "label": "David Adeang",
+        "id": "Q58096"
+      }
+    ],
+    "model_response": "I don't know. Nauru is a presidential republic, and the President is the head of state, while the President of the Parliament is the head of government. There has been no individual who has held both positions in Nauru's history."
+  },
+  {
+    "qid": "inter_ab_71",
+    "category": "answerable",
+    "question": "Who has been both the head of government of First Order and also the head of state of Galactic Empire?",
+    "reference_answer": [
+      {
+        "label": "Palpatine",
+        "id": "Q51770"
+      }
+    ],
+    "model_response": "I don't know. The First Order and the Galactic Empire are fictional entities from the Star Wars universe, and as far as the official canon is concerned, there has been no character who has held both positions."
+  },
+  {
+    "qid": "inter_ab_72",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Ahal Region and also the head of state of Turkmenistan?",
+    "reference_answer": [
+      {
+        "label": "Serdar Berdimuhamedow",
+        "id": "Q51874548"
+      }
+    ],
+    "model_response": "I don't know. The roles of head of government and head of state are typically held by different individuals in Turkmenistan. The President is the head of state, while the Prime Minister is the head of government. As of my last update, Gurbanguly Berdimuhamedow has been the President"
+  },
+  {
+    "qid": "inter_ab_73",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Afghan Interim Administration and also the head of state of Islamic Republic of Afghanistan?",
+    "reference_answer": [
+      {
+        "label": "Hamid Karzai",
+        "id": "Q43944"
+      }
+    ],
+    "model_response": "Hamid Karzai is the individual who has held both roles. He served as the Chairman of the Afghan Interim Administration from December 2001 to June 2002, and then as the President of the Islamic Republic of Afghanistan from June 2002 to September 201"
+  },
+  {
+    "qid": "inter_ab_74",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Government of the Republic of Angola and also the head of state of Angola?",
+    "reference_answer": [
+      {
+        "label": "Jo\u00e3o Louren\u00e7o",
+        "id": "Q28650390"
+      }
+    ],
+    "model_response": "I don't know. In Angola, the roles of head of government (President of the Council of Ministers) and head of state (President of Angola) are separate positions. The President of Angola is the head of state, while the Prime Minister is the head of government. There has"
+  },
+  {
+    "qid": "inter_ab_75",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Roman Catholic Diocese of Urgell and also the head of state of Andorra?",
+    "reference_answer": [
+      {
+        "label": "Joan Enric Vives Sic\u00edlia",
+        "id": "Q57473"
+      }
+    ],
+    "model_response": "The individual who has held both positions is Bishop (and later Bishop-Prince) Joan Enric Vives Sic\u00edlia. He served as the Bishop of Urgell from 2003 to 2019, and as the Co-Prince of Andorra (alongside the President"
+  },
+  {
+    "qid": "inter_ab_76",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Bonaire and also the head of state of Netherlands?",
+    "reference_answer": [
+      {
+        "label": "Willem-Alexander of the Netherlands",
+        "id": "Q154952"
+      }
+    ],
+    "model_response": "I don't know. The roles of head of government and head of state are typically separate in the Dutch Caribbean island of Bonaire, which is a special municipality of the Netherlands. The island has a Governor appointed by the Dutch government, who serves as the head of the island's executive branch, and"
+  },
+  {
+    "qid": "inter_ab_77",
+    "category": "answerable",
+    "question": "Who has been both the head of government of West Bank and also the head of state of State of Palestine?",
+    "reference_answer": [
+      {
+        "label": "Mahmoud Abbas",
+        "id": "Q127998"
+      }
+    ],
+    "model_response": "Mahmoud Abbas has been both the head of government (President of the Palestinian National Authority) and the head of state (President of the State of Palestine) since 2005. However, it's important to note that the State of Palestine is not recognized as a state by"
+  },
+  {
+    "qid": "inter_ab_78",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Weimar Republic and also the head of state of German Reich?",
+    "reference_answer": [
+      {
+        "label": "Hans Luther",
+        "id": "Q155419"
+      }
+    ],
+    "model_response": "I don't know. There was no individual who held both the head of government and head of state positions in both the Weimar Republic and the German Reich. The Weimar Republic (1919-1933) and the German Reich (1933-1945"
+  },
+  {
+    "qid": "inter_ab_79",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Alexander Stubb's cabinet and also the head of state of Finland?",
+    "reference_answer": [
+      {
+        "label": "Alexander Stubb",
+        "id": "Q503143"
+      }
+    ],
+    "model_response": "I don't know. Alexander Stubb served as the Prime Minister of Finland from June 22, 2014, to December 10, 2015, and the President of Finland is a separate position. During the time Stubb was Prime Minister, the President was"
+  },
+  {
+    "qid": "inter_ab_80",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Abu Dhabi and also the head of state of United Arab Emirates?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Zayed Al Nahyan",
+        "id": "Q1951896"
+      }
+    ],
+    "model_response": "Khalifa bin Zayed Al Nahyan is the person who has been both the head of government of Abu Dhabi and the head of state of the United Arab Emirates. He is the President of the United Arab Emirates since 2004 and the Ruler of Abu Dhab"
+  },
+  {
+    "qid": "inter_ab_81",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Emirate of Abu Dhabi and also the head of state of United Arab Emirates?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Zayed Al Nahyan",
+        "id": "Q1951896"
+      }
+    ],
+    "model_response": "Sheikh Khalifa bin Zayed Al Nahyan has been both the head of government of the Emirate of Abu Dhabi and the head of state of the United Arab Emirates. He served as the President of the UAE from 2004 until his death in 20"
+  },
+  {
+    "qid": "inter_ab_82",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Yuan Shikai's Cabinet and also the head of state of Empire of China?",
+    "reference_answer": [
+      {
+        "label": "Yuan Shikai",
+        "id": "Q210329"
+      }
+    ],
+    "model_response": "Yuan Shikai served as both the head of government and the head of state of the Empire of China. He was the President of the Republic of China from 1912 to 1916, and then he restored the imperial system and became the Emperor of China from 1915"
+  },
+  {
+    "qid": "inter_ab_83",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Cabinet of the Confederate States and also the head of state of Confederate States?",
+    "reference_answer": [
+      {
+        "label": "Jefferson Davis",
+        "id": "Q162269"
+      }
+    ],
+    "model_response": "I don't know. The Confederate States of America did not have a single individual who held both the roles of head of government (President) and head of state (President of the Confederate States) at the same time. The President was the head of state, while the President of the Provis"
+  },
+  {
+    "qid": "inter_ab_84",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Second Cabinet of Cyril Ramaphosa and also the head of state of South Africa?",
+    "reference_answer": [
+      {
+        "label": "Cyril Ramaphosa",
+        "id": "Q1148669"
+      }
+    ],
+    "model_response": "Cyril Ramaphosa has been the head of government of the Second Cabinet of South Africa, serving as the President since 2018. However, the President is also the head of state in South Africa. So, in this case, he is both the head of government and the head of state."
+  },
+  {
+    "qid": "inter_ab_85",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Confederate States and also the head of state of Cabinet of the Confederate States?",
+    "reference_answer": [
+      {
+        "label": "Jefferson Davis",
+        "id": "Q162269"
+      }
+    ],
+    "model_response": "I don't know. The Confederate States of America did not have a head of state in the same way that the United States does. The President of the Confederate States was the head of government, but there was no equivalent position that combined both the head of government and head of state roles. The President of"
+  },
+  {
+    "qid": "inter_ab_86",
+    "category": "answerable",
+    "question": "Who has been both the head of government of Johor and also the head of state of Malaysia?",
+    "reference_answer": [
+      {
+        "label": "Ibrahim Iskandar of Johor",
+        "id": "Q2657043"
+      }
+    ],
+    "model_response": "I don't know. The roles of head of government and head of state in Johor and Malaysia are typically held by different individuals. The Sultan of Johor is the head of state in Johor, while the Prime Minister is the head of government of Malaysia. There has been no individual who has held both"
+  },
+  {
+    "qid": "inter_ab_87",
+    "category": "answerable",
+    "question": "Who has been the head of government of United States of America and also the child of Jean Biden?",
+    "reference_answer": [
+      {
+        "label": "Joe Biden",
+        "id": "Q6279"
+      }
+    ],
+    "model_response": "I don't know. Joseph Biden, the current President of the United States, is not the child of Jean Biden. Jean Biden is not a known figure in the Biden family. The correct relationship would be that Joseph Biden is the son of Joseph R. Biden Sr. and Catherine Eugenia \"Jean\""
+  },
+  {
+    "qid": "inter_ab_88",
+    "category": "answerable",
+    "question": "Who has been the head of government of Turkey and also the child of Tenzile Erdo\u011fan?",
+    "reference_answer": [
+      {
+        "label": "Recep Tayyip Erdo\u011fan",
+        "id": "Q39259"
+      }
+    ],
+    "model_response": "I don't know. Tenzile Erdo\u011fan is not known to have a child who has served as the head of government in Turkey. The current and past heads of government in Turkey are political figures, not family members of Tenzile Erdo\u011fan."
+  },
+  {
+    "qid": "inter_ab_89",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi IV Cabinet and also the child of Rosa Bossi?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "I don't know. Silvio Berlusconi's fourth cabinet was in office from 2008 to 2011, and Rosa Bossi is a well-known Italian politician. However, I couldn't find any information that links a member of Berlus"
+  },
+  {
+    "qid": "inter_ab_90",
+    "category": "answerable",
+    "question": "Who has been the head of government of Brunei Darussalam and also the child of Queen Damit of Brunei?",
+    "reference_answer": [
+      {
+        "label": "Hassanal Bolkiah I of Brunei",
+        "id": "Q57327"
+      }
+    ],
+    "model_response": "I don't know. The head of government in Brunei Darussalam is the Sultan, and there is no record of a Queen Damit in Brunei's royal history. The current Sultan, Hassanal Bolkiah, is the son of Omar Ali Saifuddien"
+  },
+  {
+    "qid": "inter_ab_91",
+    "category": "answerable",
+    "question": "Who has been the head of government of Villavaliente and also the child of Mariano Rajoy Sobredo?",
+    "reference_answer": [
+      {
+        "label": "Mariano Rajoy",
+        "id": "Q10819"
+      }
+    ],
+    "model_response": "I don't know. Mariano Rajoy Sobredo is a Spanish politician who served as the Prime Minister of Spain from 2011 to 2018, but there is no information available that suggests he has a child who has been the head of government of Villavaliente or any"
+  },
+  {
+    "qid": "inter_ab_92",
+    "category": "answerable",
+    "question": "Who has been the head of government of Dubai and also the child of Rashid bin Saeed Al Maktoum?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Rashid Al Maktoum",
+        "id": "Q57655"
+      }
+    ],
+    "model_response": "The individual you are referring to is Mohammed bin Rashid Al Maktoum. He is the current Vice President and Prime Minister of the United Arab Emirates and Ruler of Dubai. However, it's important to note that he did not become the head of government through a direct line of"
+  },
+  {
+    "qid": "inter_ab_93",
+    "category": "answerable",
+    "question": "Who has been the head of government of Singapore and also the child of Kwa Geok Choo?",
+    "reference_answer": [
+      {
+        "label": "Lee Hsien Loong",
+        "id": "Q57643"
+      }
+    ],
+    "model_response": "The individual you are referring to is Lee Hsien Loong. He is the current Prime Minister of Singapore and the son of Kwa Geok Choo, who was the wife of Lee Kuan Yew, the founding Prime Minister of Singapore. Kwa Geok Choo passed away in 201"
+  },
+  {
+    "qid": "inter_ab_94",
+    "category": "answerable",
+    "question": "Who has been the head of government of Emirate of Dubai and also the child of Rashid bin Saeed Al Maktoum?",
+    "reference_answer": [
+      {
+        "label": "Mohammed bin Rashid Al Maktoum",
+        "id": "Q57655"
+      }
+    ],
+    "model_response": "The individual you are referring to is Mohammed bin Rashid Al Maktoum. He served as the head of government of the Emirate of Dubai and is indeed the son of Rashid bin Saeed Al Maktoum. Mohammed bin Rashid Al Maktoum"
+  },
+  {
+    "qid": "inter_ab_95",
+    "category": "answerable",
+    "question": "Who has been the head of government of First Blair Ministry and also the child of Leo Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "The question is incorrect as the First Blair Ministry refers to the British government led by Tony Blair, who is not the son of Leo Blair. Leo Blair is Tony Blair's father. Therefore, no one has been the head of government of the First Blair Ministry and also the child of Leo"
+  },
+  {
+    "qid": "inter_ab_96",
+    "category": "answerable",
+    "question": "Who has been the head of government of Third Blair ministry and also the child of Leo Blair?",
+    "reference_answer": [
+      {
+        "label": "Tony Blair",
+        "id": "Q9545"
+      }
+    ],
+    "model_response": "I don't know. The Third Blair ministry refers to the third term of Tony Blair as Prime Minister of the United Kingdom, from 2005 to 2007. However, Tony Blair does not have a child named Leo. His sons are Euan Blair and Nicky"
+  },
+  {
+    "qid": "inter_ab_97",
+    "category": "answerable",
+    "question": "Who has been the head of government of Second term of Tung Chee-hwa as Chief Executive of Hong Kong and also the child of Tung Chao Yung?",
+    "reference_answer": [
+      {
+        "label": "Tung Chee Hwa",
+        "id": "Q15027"
+      }
+    ],
+    "model_response": "The individual you're referring to is Tung Kin-wah. He served as the Chief Secretary for Administration under his father, Tung Chee-hwa, during his second term as Chief Executive of Hong Kong. Tung Kin-wah is indeed the son of Tung Chao-yung"
+  },
+  {
+    "qid": "inter_ab_98",
+    "category": "answerable",
+    "question": "Who has been the head of government of Government of Manuel Valls II and also the child of Xavier Valls?",
+    "reference_answer": [
+      {
+        "label": "Manuel Valls",
+        "id": "Q10287"
+      }
+    ],
+    "model_response": "I don't know. Manuel Valls II was a French government, and the head of government (Prime Minister) during that period was Manuel Valls himself from March 31, 2014, to August 30, 2016. However, I don't have"
+  },
+  {
+    "qid": "inter_ab_99",
+    "category": "answerable",
+    "question": "Who has been the head of government of Bangladesh and also the child of Sheikh Mujibur Rahman?",
+    "reference_answer": [
+      {
+        "label": "Sheikh Hasina",
+        "id": "Q52183"
+      }
+    ],
+    "model_response": "Sheikh Hasina Wazed, the current Prime Minister of Bangladesh, is the daughter of Sheikh Mujibur Rahman, the founding father and first President of Bangladesh. However, she served as the Prime Minister, not as the head of government during her father's tenure. Sheikh M"
+  },
+  {
+    "qid": "inter_ab_100",
+    "category": "answerable",
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the child of Rosa Bossi?",
+    "reference_answer": [
+      {
+        "label": "Silvio Berlusconi",
+        "id": "Q11860"
+      }
+    ],
+    "model_response": "I don't know. Silvio Berlusconi was the head of the Berlusconi III Cabinet, but I couldn't find any information that connects a member of that cabinet to Rosa Bossi as their parent. Rosa Bossi is a well-known Italian politician"
+  }
+]

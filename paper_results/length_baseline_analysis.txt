@@ -1,0 +1,84 @@
+==========================================================================================
+15% BASELINE COMPOSITION
+==========================================================================================
+
+IFD15
+--------------------------------------------------
+N: 7800
+Mean words:   235.20
+Median words: 238.00
+Mean tokens:  322.14
+<=10 words:   0.65%
+>=200 words:  67.60%
+
+Task composition:
+  classification_extraction     186 (  2.38%)
+  coding                        203 (  2.60%)
+  generation                   2326 ( 29.82%)
+  math_reasoning                 49 (  0.63%)
+  other                        2594 ( 33.26%)
+  qa_explanation               2323 ( 29.78%)
+  rewrite_edit                   13 (  0.17%)
+  summarization                  99 (  1.27%)
+  translation                     7 (  0.09%)
+
+Random15
+--------------------------------------------------
+N: 7800
+Mean words:   111.25
+Median words: 81.00
+Mean tokens:  157.01
+<=10 words:   16.01%
+>=200 words:  22.22%
+
+Task composition:
+  classification_extraction     510 (  6.54%)
+  coding                        291 (  3.73%)
+  generation                   1906 ( 24.44%)
+  math_reasoning                150 (  1.92%)
+  other                        3000 ( 38.46%)
+  qa_explanation               1365 ( 17.50%)
+  rewrite_edit                  363 (  4.65%)
+  summarization                 187 (  2.40%)
+  translation                    28 (  0.36%)
+
+Length15
+--------------------------------------------------
+N: 7800
+Mean words:   292.36
+Median words: 285.00
+Mean tokens:  414.29
+<=10 words:   0.00%
+>=200 words:  96.51%
+
+Task composition:
+  classification_extraction     137 (  1.76%)
+  coding                        436 (  5.59%)
+  generation                   2641 ( 33.86%)
+  math_reasoning                 82 (  1.05%)
+  other                        2456 ( 31.49%)
+  qa_explanation               1999 ( 25.63%)
+  rewrite_edit                    2 (  0.03%)
+  summarization                  47 (  0.60%)
+
+
+==========================================================================================
+SUBSET OVERLAP
+==========================================================================================
+Length15   vs IFD15     : overlap= 3794 ( 48.64% of Length15), Jaccard= 32.14%
+Length15   vs Random15  : overlap= 1177 ( 15.09% of Length15), Jaccard=  8.16%
+IFD15      vs Random15  : overlap= 1160 ( 14.87% of IFD15), Jaccard=  8.03%
+
+
+==========================================================================================
+TASK-COMPOSITION DIFFERENCES: LENGTH15 - IFD15
+==========================================================================================
+classification_extraction    Length=  1.76% IFD=  2.38% delta= -0.63 pp
+coding                       Length=  5.59% IFD=  2.60% delta= +2.99 pp
+generation                   Length= 33.86% IFD= 29.82% delta= +4.04 pp
+math_reasoning               Length=  1.05% IFD=  0.63% delta= +0.42 pp
+other                        Length= 31.49% IFD= 33.26% delta= -1.77 pp
+qa_explanation               Length= 25.63% IFD= 29.78% delta= -4.15 pp
+rewrite_edit                 Length=  0.03% IFD=  0.17% delta= -0.14 pp
+summarization                Length=  0.60% IFD=  1.27% delta= -0.67 pp
+translation                  Length=  0.00% IFD=  0.09% delta= -0.09 pp

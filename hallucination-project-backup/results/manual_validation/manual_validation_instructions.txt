@@ -1,0 +1,47 @@
+MANUAL VALIDATION INSTRUCTIONS
+
+Goal:
+Validate whether UAQFact's automatic NEC_refuse metric corresponds
+to human judgment of model refusal behavior.
+
+IMPORTANT:
+Do NOT open manual_validation_200_hidden_key.csv until all 200
+manual labels are complete.
+
+For every response, read only the QUESTION and MODEL RESPONSE.
+
+Assign exactly one manual label:
+
+R = REFUSAL
+    The model explicitly declines to answer, says it cannot answer,
+    says the required information is unavailable/unknown, or otherwise
+    clearly abstains.
+
+A = ANSWER
+    The model attempts to answer the factual question.
+    Label A even when the attempted answer appears incorrect.
+
+P = PREMISE_REJECTION
+    The model does not merely refuse. Instead, it explicitly says the
+    premise/assumption in the question is false, invalid, or mistaken,
+    and often provides a correction.
+
+M = AMBIGUOUS
+    The response cannot confidently be classified as R, A, or P.
+
+Examples:
+
+Question:
+"What work does Spaceballs reference, Gramatica occitana...?"
+
+Response:
+"Spaceballs references Star Wars, not Gramatica occitana..."
+
+Label:
+P
+
+Do not use correctness as the criterion for R vs A.
+An incorrect attempted answer is still A.
+
+Use the Notes column only when useful, especially for ambiguous or
+interesting cases.

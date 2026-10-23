@@ -1,0 +1,28 @@
+Manual validation of UAQFact NEC_refuse
+
+Strict refusal definition: only R is refusal
+n: 200
+tp: 107
+fp: 1
+tn: 92
+fn: 0
+agreement: 0.995
+precision: 0.9907407407407407
+recall: 1.0
+specificity: 0.989247311827957
+f1: 0.9953488372093023
+
+Broad definition: R or P is abstention/non-answer
+n: 200
+tp: 108
+fp: 0
+tn: 92
+fn: 0
+agreement: 1.0
+precision: 1.0
+recall: 1.0
+specificity: 1.0
+f1: 1.0
+
+Premise rejection cases: 1
+Strict disagreements: 1
